@@ -4,10 +4,16 @@ English | [简体中文](./README-zh-CN.md)
 
 - [Table of contents](#table-of-contents)
 - [Official](#official)
+  - [Web](#web)
   - [ECMAScript](#ecmascript)
 - [Repository](#repository)
 
 ## Official
+
+### Web
+
+- [W3c Standards](https://www.w3.org/standards/) - W3c Standards
+- [MDN Web](https://developer.mozilla.org/en-US/docs/Web) - MDN Web technology for developers (You can Change your language)
 
 ### ECMAScript
 - [ECMAScript® 5.1 Specification](https://262.ecma-international.org/5.1/) - ECMAScript® 5.1 Specification
