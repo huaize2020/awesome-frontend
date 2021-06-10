@@ -32,17 +32,17 @@ English | [简体中文](./README-zh-CN.md)
 ### Editor
 
 - Rich Text Editor
-  - [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+  - [quill](https://github.com/quilljs/quill) - A modern WYSIWYG editor built for compatibility and extensibility.
   - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors in the browser.
   - [draft.js](https://github.com/facebook/draft-js) - Draft.js is a JavaScript rich text editor framework, built for React and backed by an immutable model.
   - [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) - Lightweight web rich text editor.
-  - [tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular.
+  - [tinymce](https://github.com/tinymce/tinymce) - JavaScript library for rich text editing. Available for React, Vue and Angular.
   - [ckeditor4](https://github.com/ckeditor/ckeditor4) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
   - [simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor.
   - [ckeditor5](https://github.com/ckeditor/ckeditor5) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
   - [substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
-  - [neditor](https://github.com/notadd/neditor) - Modern Rich Text Edit based on ueditor, support HTTPS.
+  - [neditor](https://github.com/notadd/neditor) - Modern Rich Text Editor based on ueditor, support HTTPS.
 
 - Code Editor
   - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor.
