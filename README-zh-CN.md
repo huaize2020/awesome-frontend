@@ -1,5 +1,8 @@
 [English](./README.md) | 简体中文
 
+> 正在持续建设中...
+> 同时推荐你查看我另一个仓库 [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)!
+
 ## 目录
 
 - [目录](#目录)

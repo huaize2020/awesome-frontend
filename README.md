@@ -1,5 +1,8 @@
 English | [简体中文](./README-zh-CN.md)
 
+> Under continuous construction...
+> You can also see [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)!
+
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
