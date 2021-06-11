@@ -51,3 +51,4 @@
   - [stackedit](https://github.com/benweet/stackedit) - 浏览器端Markdown编辑器。
   - [Editor.md](https://github.com/pandao/editor.md) - 开源可嵌入在线编辑器（组件）。
   - [Markdown Plus](https://github.com/tylingsoft/markdown-plus) - 具有额外功能的 Markdown 编辑器。
+  - [bytemd](https://github.com/bytedance/bytemd) - 一个用 Svelte 构建 (hackable) 的 Markdown 编辑器组件。

@@ -52,3 +52,4 @@ English | [简体中文](./README-zh-CN.md)
   - [stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor.
   - [Editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
   - [Markdown Plus](https://github.com/tylingsoft/markdown-plus) - Markdown editor with extra features.
+  - [bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component built with Svelte.
