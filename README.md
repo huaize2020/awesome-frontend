@@ -10,6 +10,8 @@ English | [简体中文](./README-zh-CN.md)
   - [Web](#web)
   - [ECMAScript](#ecmascript)
 - [Repository](#repository)
+  - [Number](#number)
+  - [Math](#math)
   - [Date & Time](#date--time)
   - [Editor](#editor)
 
@@ -32,6 +34,23 @@ English | [简体中文](./README-zh-CN.md)
 - [The TC39 Process](https://tc39.es/process-document/) - The TC39 Process
 
 ## Repository
+
+### Number
+
+- [Numeral.js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
+- [decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript.
+- [big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
+- [round-to](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
+- [unique-random](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
+- [random-int](https://github.com/sindresorhus/random-int) - Generate a random integer.
+- [random-float](https://github.com/sindresorhus/random-float) - Generate a random float.
+
+### Math
+
+- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
+- [ndarray](https://github.com/scijs/ndarray) - Multidimensional arrays.
+- [algebra](https://github.com/fibo/algebra) - Algebraic structures.
+- [multimath](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
 
 ### Date & Time
 

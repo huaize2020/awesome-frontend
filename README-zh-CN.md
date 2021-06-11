@@ -10,6 +10,8 @@
   - [Web技术](#web技术)
   - [ECMAScript](#ecmascript)
 - [GIT仓库](#git仓库)
+  - [数字](#数字)
+  - [数学运算](#数学运算)
   - [日期 和 时间](#日期-和-时间)
   - [编辑器](#编辑器)
 
@@ -31,6 +33,23 @@
 - [The TC39 Process](https://tc39.es/process-document/) - 提案进入正式规格的流程
 
 ## GIT仓库
+
+### 数字
+
+- [Numeral.js](https://github.com/adamwdraper/Numeral-js) - 格式化和操作数字。
+- [decimal.js](https://github.com/MikeMcl/decimal.js) - JavaScript的任意精度的十进制类型。
+- [big.js](https://github.com/MikeMcl/big.js) - 一个小型，快速的JavaScript库，用于任意精度的十进制算术运算。
+- [round-to](https://github.com/sindresorhus/round-to) - 将数字四舍五入到指定的小数位数：`1.234`→1.2`。
+- [unique-random](https://github.com/sindresorhus/unique-random) - 生成连续唯一的随机数。
+- [random-int](https://github.com/sindresorhus/random-int) - 生成随机整数。
+- [random-float](https://github.com/sindresorhus/random-float) - 生成随机浮点数。
+
+### 数学运算
+
+- [mathjs](https://github.com/josdejong/mathjs) - 广泛的数学运算库。
+- [ndarray](https://github.com/scijs/ndarray) - 多维数组。
+- [algebra](https://github.com/fibo/algebra) - 代数结构。
+- [multimath](https://github.com/nodeca/multimath) - 在WebAssembly和JS中进行快速图像数学运算。
 
 ### 日期 和 时间
 
