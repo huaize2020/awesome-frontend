@@ -13,6 +13,7 @@
   - [数字](#数字)
   - [数学运算](#数学运算)
   - [日期 和 时间](#日期-和-时间)
+  - [数据可视化](#数据可视化)
   - [编辑器](#编辑器)
 
 ## 官方文档
@@ -65,6 +66,38 @@
 - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 将毫秒转换为人类可读的字符串，如: `1337000000` → `15d 11h 23m 20s`。
 - [strftime](https://github.com/samsonjs/strftime) - JavaScript版时间格式化Strftime。
 - [date-utils](https://github.com/JerrySievert/date-utils) - 用于Node.js和浏览器的日期垫片（Polyfills）。
+
+### 数据可视化
+
+- 引擎
+  - [D3.js](https://github.com/d3/d3) - 一个可以基于数据来操作文档的 JavaScript 库。 *(你也许会喜欢 [awesome-d3](https://github.com/wbkd/awesome-d3))*
+  - [Raphaël](http://raphaeljs.com/) - Raphaël 是一个小型 JavaScript 库，它可以简化您在网站上操作矢量图形的工作。
+  - [zrender](https://github.com/ecomfe/zrender) - 2d 绘图的轻量级图形库。
+  - [g](https://github.com/antvis/g) - 强大的渲染引擎，为 G2 和 G6 提供 Canvas 和 SVG 绘制。
+
+- 通用
+  - [ECharts](https://github.com/apache/echarts) - 来自百度的强大图表库。
+  - [plotly.js](https://github.com/plotly/plotly.js) - 开源 JavaScript 图形库。
+  - [HighCharts](https://github.com/highcharts/highcharts) - 为您的 Web 项目轻松创建交互式图表。
+
+- 图表
+  - [Chart.js](https://github.com/chartjs/Chart.js) - 使用 `<canvas>` 标签创建 HTML5 图表。
+  - [charts](https://github.com/frappe/charts) - 简单、响应式、零依赖的现代 SVG 图表。
+  - [G2](https://github.com/antvis/g2) - JavaScript 中的图形语法。
+    - [BizCharts](https://github.com/alibaba/BizCharts/) - 基于 G2 和 React 的强大数据可视化库。
+    - [g2plot](https://github.com/antvis/g2plot) - 一个交互式响应式的图表库。
+  - [F2](https://github.com/antvis/f2) - 一个优雅的、交互式的、灵活的移动图表库。
+
+- 关系图
+  - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma 是一个专门用于关系图绘制的 JavaScript 库。
+  - [G6](https://github.com/antvis/G6) - 便捷的关系数据可视化引擎与图分析工具。
+    - [graphin](https://github.com/antvis/graphin) - 基于 G6 封装的React图分析应用组件。
+  - [Springy](https://github.com/dhotson/springy/) - 一个力导图布局算法。
+  - [WebCola](https://github.com/tgdwyer/WebCola) - Javascript版约束图形布局。
+
+- 地图
+  - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet 是对移动端友好的开源领先的交互式地图库。
+  - [L7](https://github.com/antvis/L7) - 基于 WebGL 的开源大规模地理空间数据可视分析开发框架。
 
 ### 编辑器
 

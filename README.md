@@ -13,6 +13,7 @@ English | [简体中文](./README-zh-CN.md)
   - [Number](#number)
   - [Math](#math)
   - [Date & Time](#date--time)
+  - [Data Visualization](#data-visualization)
   - [Editor](#editor)
 
 ## Official
@@ -66,6 +67,38 @@ English | [简体中文](./README-zh-CN.md)
 - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [strftime](https://github.com/samsonjs/strftime) - Strftime for JavaScript.
 - [date-utils](https://github.com/JerrySievert/date-utils) - Date Pollyfills for Node.js and Browser.
+
+### Data Visualization
+
+- Engine
+  - [D3.js](https://github.com/d3/d3) - A JavaScript library for manipulating documents based on data. *(You might like [awesome-d3](https://github.com/wbkd/awesome-d3))*
+  - [Raphaël](http://raphaeljs.com/) - Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
+  - [zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts.
+  - [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6.
+
+- Common
+  - [ECharts](https://github.com/apache/echarts) - A powerful charts library from Baidu.
+  - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers Plotly.
+  - [HighCharts](https://github.com/highcharts/highcharts) - Create interactive charts easily for your web projects.
+
+- Charts
+  - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag.
+  - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies.
+  - [G2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript.
+    - [BizCharts](https://github.com/alibaba/BizCharts/) - Powerful data visualization library based on G2 and React.
+    - [g2plot](https://github.com/antvis/g2plot) - An interactive and responsive charting library.
+  - [F2](https://github.com/antvis/f2) - An elegant, interactive and flexible charting library for mobile.
+
+- Graphs
+  - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma is a JavaScript library dedicated to graph drawing.
+  - [G6](https://github.com/antvis/G6) - A Graph Visualization Framework in JavaScript.
+    - [graphin](https://github.com/antvis/graphin) - A React toolkit for graph visualization based on G6.
+  - [Springy](https://github.com/dhotson/springy/) - Springy is a force directed graph layout algorithm.
+  - [WebCola](https://github.com/tgdwyer/WebCola) - Javascript constraint-based graph layout.
+
+- Map
+  - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
+  - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps.
 
 ### Editor
 
