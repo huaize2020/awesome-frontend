@@ -78,6 +78,8 @@ English | [简体中文](./README-zh-CN.md)
 
 - Common
   - [ECharts](https://github.com/apache/echarts) - A powerful charts library from Baidu.
+    - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts.
+    - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Uses Apache ECharts 5 and works for both Vue.js 2/3.
   - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers Plotly.
   - [HighCharts](https://github.com/highcharts/highcharts) - Create interactive charts easily for your web projects.
 
@@ -93,6 +95,7 @@ English | [简体中文](./README-zh-CN.md)
   - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma is a JavaScript library dedicated to graph drawing.
   - [G6](https://github.com/antvis/G6) - A Graph Visualization Framework in JavaScript.
     - [graphin](https://github.com/antvis/graphin) - A React toolkit for graph visualization based on G6.
+  - [cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis.
   - [Springy](https://github.com/dhotson/springy/) - Springy is a force directed graph layout algorithm.
   - [WebCola](https://github.com/tgdwyer/WebCola) - Javascript constraint-based graph layout.
 

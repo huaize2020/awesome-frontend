@@ -77,6 +77,8 @@
 
 - 通用
   - [ECharts](https://github.com/apache/echarts) - 来自百度的强大图表库。
+    - [v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件。
+    - [vue-echarts](https://github.com/ecomfe/vue-echarts) - 使用 Apache ECharts 5，同时支持 Vue.js 2/3。
   - [plotly.js](https://github.com/plotly/plotly.js) - 开源 JavaScript 图形库。
   - [HighCharts](https://github.com/highcharts/highcharts) - 为您的 Web 项目轻松创建交互式图表。
 
@@ -92,6 +94,7 @@
   - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma 是一个专门用于关系图绘制的 JavaScript 库。
   - [G6](https://github.com/antvis/G6) - 便捷的关系数据可视化引擎与图分析工具。
     - [graphin](https://github.com/antvis/graphin) - 基于 G6 封装的React图分析应用组件。
+  - [cytoscape.js](https://github.com/cytoscape/cytoscape.js) - 用于可视化和分析的图论（网络）库。
   - [Springy](https://github.com/dhotson/springy/) - 一个力导图布局算法。
   - [WebCola](https://github.com/tgdwyer/WebCola) - Javascript版约束图形布局。
 
