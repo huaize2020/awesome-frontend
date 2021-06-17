@@ -88,6 +88,7 @@
   - [G2](https://github.com/antvis/g2) - JavaScript 中的图形语法。
     - [BizCharts](https://github.com/alibaba/BizCharts/) - 基于 G2 和 React 的强大数据可视化库。
     - [g2plot](https://github.com/antvis/g2plot) - 一个交互式响应式的图表库。
+    - [viser](https://github.com/viserjs/viser) - Viser 是一个适用于数据可视化工程师的工具。
   - [F2](https://github.com/antvis/f2) - 一个优雅的、交互式的、灵活的移动图表库。
 
 - 关系图
@@ -120,6 +121,7 @@
 - 代码编辑器
   - [monaco-editor](https://github.com/Microsoft/monaco-editor) - 基于浏览器端代码编辑器。
   - [ace](https://github.com/ajaxorg/ace) - Ace是使用JavaScript编写的独立代码编辑器。
+  - [CodeMirror](https://github.com/codemirror/CodeMirror) - 浏览器端代码编辑器。
 
 - Markdown编辑器
   - [stackedit](https://github.com/benweet/stackedit) - 浏览器端Markdown编辑器。

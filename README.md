@@ -89,6 +89,7 @@ English | [简体中文](./README-zh-CN.md)
   - [G2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript.
     - [BizCharts](https://github.com/alibaba/BizCharts/) - Powerful data visualization library based on G2 and React.
     - [g2plot](https://github.com/antvis/g2plot) - An interactive and responsive charting library.
+    - [viser](https://github.com/viserjs/viser) - Viser is a toolkit fit for data vis engineer.
   - [F2](https://github.com/antvis/f2) - An elegant, interactive and flexible charting library for mobile.
 
 - Graphs
@@ -121,6 +122,7 @@ English | [简体中文](./README-zh-CN.md)
 - Code Editor
   - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor.
   - [ace](https://github.com/ajaxorg/ace) - Ace is a standalone code editor written in JavaScript.
+  - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor.
 
 - Markdown Editor
   - [stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor.
