@@ -101,6 +101,7 @@
 
 - 地图
   - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet 是对移动端友好的开源领先的交互式地图库。
+  - [cesium](https://github.com/CesiumGS/cesium) - 用于世界级 3D 地球仪和地图的开源 JavaScript 库。
   - [L7](https://github.com/antvis/L7) - 基于 WebGL 的开源大规模地理空间数据可视分析开发框架。
 
 ### 编辑器
