@@ -74,6 +74,7 @@ English | [简体中文](./README.md)
 
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps.
+- [Oasis Engine](https://github.com/oasis-engine/engine) - Oasis Engine is a web-first and mobile-first high-performance real-time development platform.
 
 ### Data Visualization
 
