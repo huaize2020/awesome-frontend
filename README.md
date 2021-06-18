@@ -13,7 +13,9 @@
   - [数字](#数字)
   - [数学运算](#数学运算)
   - [日期 和 时间](#日期-和-时间)
+  - [WebGL](#webgl)
   - [数据可视化](#数据可视化)
+  - [游戏](#游戏)
   - [编辑器](#编辑器)
 
 ## 官方文档
@@ -67,6 +69,11 @@
 - [strftime](https://github.com/samsonjs/strftime) - JavaScript版时间格式化Strftime。
 - [date-utils](https://github.com/JerrySievert/date-utils) - 用于Node.js和浏览器的日期垫片（Polyfills）。
 
+### WebGL
+
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D库。
+- [gl-matrix](https://github.com/toji/gl-matrix) - 用于操作矩阵和向量，开发高性能的 WebGL 应用程序的JavaScript库。
+
 ### 数据可视化
 
 - 引擎
@@ -107,6 +114,11 @@
   - [OpenLayers](https://github.com/openlayers/openlayers) - 高性能、功能丰富的库，用于在 Web 上创建交互式地图。
   - [cesium](https://github.com/CesiumGS/cesium) - 用于世界级 3D 地球仪和地图的开源 JavaScript 库。
   - [L7](https://github.com/antvis/L7) - 基于 WebGL 的开源大规模地理空间数据可视分析开发框架。
+
+### 游戏
+
+- [phaser](https://github.com/photonstorm/phaser) - Phaser 是一个有趣、免费且快速的 2D 游戏框架，用于为桌面和移动的浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染。
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js 是一个功能强大、美观、简单、开放的游戏和渲染引擎。
 
 ### 编辑器
 
