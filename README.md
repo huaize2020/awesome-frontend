@@ -71,6 +71,7 @@
 
 - 引擎
   - [D3.js](https://github.com/d3/d3) - 一个可以基于数据来操作文档的 JavaScript 库。 *(你也许会喜欢 [awesome-d3](https://github.com/wbkd/awesome-d3))*
+    - [vx](https://github.com/hshoff/vx) - react + d3 = vx | 可视化组件。
   - [Raphaël](http://raphaeljs.com/) - Raphaël 是一个小型 JavaScript 库，它可以简化您在网站上操作矢量图形的工作。
   - [zrender](https://github.com/ecomfe/zrender) - 2d 绘图的轻量级图形库。
   - [g](https://github.com/antvis/g) - 强大的渲染引擎，为 G2 和 G6 提供 Canvas 和 SVG 绘制。
@@ -101,6 +102,7 @@
 
 - 地图
   - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet 是对移动端友好的开源领先的交互式地图库。
+  - [OpenLayers](https://github.com/openlayers/openlayers) - 高性能、功能丰富的库，用于在 Web 上创建交互式地图。
   - [cesium](https://github.com/CesiumGS/cesium) - 用于世界级 3D 地球仪和地图的开源 JavaScript 库。
   - [L7](https://github.com/antvis/L7) - 基于 WebGL 的开源大规模地理空间数据可视分析开发框架。
 

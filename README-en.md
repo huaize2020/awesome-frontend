@@ -72,6 +72,7 @@ English | [简体中文](./README.md)
 
 - Engine
   - [D3.js](https://github.com/d3/d3) - A JavaScript library for manipulating documents based on data. *(You might like [awesome-d3](https://github.com/wbkd/awesome-d3))*
+    - [vx](https://github.com/hshoff/vx) - react + d3 = vx | visualization components.
   - [Raphaël](http://raphaeljs.com/) - Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
   - [zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts.
   - [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6.
@@ -102,6 +103,7 @@ English | [简体中文](./README.md)
 
 - Map
   - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
+  - [OpenLayers](https://github.com/openlayers/openlayers) - A high-performance, feature-packed library for all your mapping needs.
   - [cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps.
   - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps.
 
