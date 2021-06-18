@@ -101,6 +101,7 @@
   - [F2](https://github.com/antvis/f2) - 一个优雅的、交互式的、灵活的移动图表库。
   - [uPlot](https://github.com/leeoniya/uPlot) - 小而快速的图表k库，可制作时序图、折线图、面积图、OHLC图和饼图。
   - [flot](http://github.com/flot/flot) - 基于jQuery的优雅的JavaScript图表库。
+  - [Peity](https://github.com/benpickles/peity) - 渐进式 <svg> 饼图、圆环图、条形图和折线图。
 
 - 关系图
   - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma 是一个专门用于关系图绘制的 JavaScript 库。

@@ -102,6 +102,7 @@ English | [简体中文](./README.md)
   - [F2](https://github.com/antvis/f2) - An elegant, interactive and flexible charting library for mobile.
   - [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars.
   - [flot](http://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
+  - [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts. 4.2k
 
 - Graphs
   - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma is a JavaScript library dedicated to graph drawing.
