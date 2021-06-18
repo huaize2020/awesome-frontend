@@ -92,7 +92,8 @@ English | [简体中文](./README.md)
     - [g2plot](https://github.com/antvis/g2plot) - An interactive and responsive charting library.
     - [viser](https://github.com/viserjs/viser) - Viser is a toolkit fit for data vis engineer.
   - [F2](https://github.com/antvis/f2) - An elegant, interactive and flexible charting library for mobile.
-  - [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars. 6.4k
+  - [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars.
+  - [flot](http://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
 
 - Graphs
   - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma is a JavaScript library dedicated to graph drawing.
