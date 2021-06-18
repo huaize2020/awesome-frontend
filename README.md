@@ -91,6 +91,7 @@
     - [g2plot](https://github.com/antvis/g2plot) - 一个交互式响应式的图表库。
     - [viser](https://github.com/viserjs/viser) - Viser 是一个适用于数据可视化工程师的工具。
   - [F2](https://github.com/antvis/f2) - 一个优雅的、交互式的、灵活的移动图表库。
+  - [uPlot](https://github.com/leeoniya/uPlot) - 小而快速的图表k库，可制作时序图、折线图、面积图、OHLC图和饼图。
 
 - 关系图
   - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma 是一个专门用于关系图绘制的 JavaScript 库。
