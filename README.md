@@ -13,6 +13,7 @@
   - [数字](#数字)
   - [数学运算](#数学运算)
   - [日期 和 时间](#日期-和-时间)
+  - [CSS](#css)
   - [WebGL](#webgl)
   - [数据可视化](#数据可视化)
   - [游戏](#游戏)
@@ -68,6 +69,15 @@
 - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 将毫秒转换为人类可读的字符串，如: `1337000000` → `15d 11h 23m 20s`。
 - [strftime](https://github.com/samsonjs/strftime) - JavaScript版时间格式化Strftime。
 - [date-utils](https://github.com/JerrySievert/date-utils) - 用于Node.js和浏览器的日期垫片（Polyfills）。
+
+### CSS
+
+- 框架
+  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - 一个功能类优先的 CSS 框架。
+
+- 动画
+  - [animate.css](https://github.com/animate-css/animate.css) - 跨浏览器CSS动画库。简单易用。
+  - [Hover.css](https://github.com/IanLunn/Hover) - 一个悬停效果的CSS3集合，可应用于链接、按钮、徽标、SVG、特色图像等。提供CSS、Sass等版本。
 
 ### WebGL
 

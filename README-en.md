@@ -13,6 +13,7 @@ English | [简体中文](./README.md)
   - [Number](#number)
   - [Math](#math)
   - [Date & Time](#date--time)
+  - [CSS](#css)
   - [WebGL](#webgl)
   - [Data Visualization](#data-visualization)
   - [Game](#game)
@@ -69,6 +70,15 @@ English | [简体中文](./README.md)
 - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [strftime](https://github.com/samsonjs/strftime) - Strftime for JavaScript.
 - [date-utils](https://github.com/JerrySievert/date-utils) - Date Pollyfills for Node.js and Browser.
+
+### CSS
+
+- Framework
+  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+
+- Animation
+  - [animate.css](https://github.com/animate-css/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+  - [Hover.css](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
 
 ### WebGL
 
