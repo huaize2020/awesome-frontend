@@ -162,6 +162,7 @@
 ### 办公软件
 
 - PDF
+  - [jsPDF](https://github.com/MrRio/jsPDF) - 使用JavaScript生成PDF文件的库。
   - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - 用于在浏览器和服务器上渲染PDF文件。
   - [react-pdf](https://github.com/wojtekmaj/react-pdf) - 在React应用程序中轻松显示PDF，就像它们是图像一样。
   - [@phuocng/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - 用于查看PDF文档的React组件。

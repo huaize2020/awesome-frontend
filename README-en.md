@@ -163,6 +163,7 @@ English | [简体中文](./README.md)
 ### Office
 
 - PDF
+  - [jsPDF](https://github.com/MrRio/jsPDF) - A library to generate PDFs in JavaScript.
   - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - React renderer for creating PDF files on the browser and server.
   - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. 4.6k
   - [@phuocng/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document.
