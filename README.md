@@ -18,6 +18,7 @@
   - [数据可视化](#数据可视化)
   - [游戏](#游戏)
   - [编辑器](#编辑器)
+  - [办公软件](#办公软件)
 
 ## 官方文档
 
@@ -157,3 +158,12 @@
   - [Editor.md](https://github.com/pandao/editor.md) - 开源可嵌入在线编辑器（组件）。
   - [Markdown Plus](https://github.com/tylingsoft/markdown-plus) - 具有额外功能的 Markdown 编辑器。
   - [bytemd](https://github.com/bytedance/bytemd) - 一个用 Svelte 构建 (hackable) 的 Markdown 编辑器组件。
+
+### 办公软件
+
+- PDF
+  - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - 用于在浏览器和服务器上渲染PDF文件。
+  - [react-pdf](https://github.com/wojtekmaj/react-pdf) - 在React应用程序中轻松显示PDF，就像它们是图像一样。
+  - [@phuocng/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - 用于查看PDF文档的React组件。
+  - [@mikecousins/react-pdf](https://github.com/mikecousins/react-pdf-js) - 封装了PDF.js的React组件。
+  - [react-file-viewer](https://github.com/plangrid/react-file-viewer) - 可扩展的web文件查看器。

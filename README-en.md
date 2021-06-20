@@ -18,6 +18,7 @@ English | [简体中文](./README.md)
   - [Data Visualization](#data-visualization)
   - [Game](#game)
   - [Editor](#editor)
+  - [Office](#office)
 
 ## Official
 
@@ -158,3 +159,12 @@ English | [简体中文](./README.md)
   - [Editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
   - [Markdown Plus](https://github.com/tylingsoft/markdown-plus) - Markdown editor with extra features.
   - [bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component built with Svelte.
+
+### Office
+
+- PDF
+  - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - React renderer for creating PDF files on the browser and server.
+  - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. 4.6k
+  - [@phuocng/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document.
+  - [@mikecousins/react-pdf](https://github.com/mikecousins/react-pdf-js) - A React component to wrap PDF.js.
+  - [react-file-viewer](https://github.com/plangrid/react-file-viewer) - Extendable file viewer for web.
