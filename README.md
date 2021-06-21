@@ -170,6 +170,11 @@
 
 ### 办公软件
 
+- Excel
+  - [sheetjs](https://github.com/SheetJS/sheetjs) - 电子表格数据工具箱。
+  - [exceljs](https://github.com/exceljs/exceljs) - Excel工作表管理工具。
+  - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX生成和解析工具，可运行在Node和浏览器。
+
 - PDF
   - [jsPDF](https://github.com/MrRio/jsPDF) - 使用JavaScript生成PDF文件的库。
   - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - 用于在浏览器和服务器上渲染PDF文件。

@@ -171,6 +171,11 @@ English | [简体中文](./README.md)
 
 ### Office
 
+- Excel
+  - [sheetjs](https://github.com/SheetJS/sheetjs) - Spreadsheet Data Toolkit.
+  - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager.
+  - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX parser/generator written in JavaScript with Node.js and browser support.
+
 - PDF
   - [jsPDF](https://github.com/MrRio/jsPDF) - A library to generate PDFs in JavaScript.
   - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - React renderer for creating PDF files on the browser and server.
