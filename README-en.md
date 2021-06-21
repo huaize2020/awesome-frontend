@@ -45,6 +45,7 @@ English | [简体中文](./README.md)
 ### CSS
 
 - Framework
+  - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
   - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 
 - Animation
