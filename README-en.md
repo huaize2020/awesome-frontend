@@ -10,10 +10,11 @@ English | [简体中文](./README.md)
   - [Web](#web)
   - [ECMAScript](#ecmascript)
 - [Repository](#repository)
+  - [CSS](#css)
   - [Number](#number)
   - [Math](#math)
   - [Date & Time](#date--time)
-  - [CSS](#css)
+  - [Framework](#framework)
   - [WebGL](#webgl)
   - [Data Visualization](#data-visualization)
   - [Game](#game)
@@ -39,6 +40,15 @@ English | [简体中文](./README.md)
 - [The TC39 Process](https://tc39.es/process-document/) - The TC39 Process
 
 ## Repository
+
+### CSS
+
+- Framework
+  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+
+- Animation
+  - [animate.css](https://github.com/animate-css/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+  - [Hover.css](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
 
 ### Number
 
@@ -72,14 +82,13 @@ English | [简体中文](./README.md)
 - [strftime](https://github.com/samsonjs/strftime) - Strftime for JavaScript.
 - [date-utils](https://github.com/JerrySievert/date-utils) - Date Pollyfills for Node.js and Browser.
 
-### CSS
+### Framework
 
-- Framework
-  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-
-- Animation
-  - [animate.css](https://github.com/animate-css/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
-  - [Hover.css](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
+- [vue](https://github.com/vuejs/vue) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [angular](https://github.com/angular/angular) - The modern web developer’s platform.
+- [svelte](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications, Cybernetically enhanced web apps.
+- [preact](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 
 ### WebGL
 
