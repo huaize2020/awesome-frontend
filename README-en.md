@@ -120,10 +120,11 @@ English | [简体中文](./README.md)
     - [BizCharts](https://github.com/alibaba/BizCharts/) - Powerful data visualization library based on G2 and React.
     - [g2plot](https://github.com/antvis/g2plot) - An interactive and responsive charting library.
     - [viser](https://github.com/viserjs/viser) - Viser is a toolkit fit for data vis engineer.
+  - [ApexCharts](https://github.com/apexcharts/apexcharts.js) - Interactive JavaScript Charts built on SVG.
   - [F2](https://github.com/antvis/f2) - An elegant, interactive and flexible charting library for mobile.
   - [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars.
   - [flot](http://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
-  - [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts. 4.2k
+  - [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts.
 
 - Graphs
   - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma is a JavaScript library dedicated to graph drawing.
