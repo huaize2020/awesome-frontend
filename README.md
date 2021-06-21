@@ -172,6 +172,7 @@
 
 - Excel
   - [sheetjs](https://github.com/SheetJS/sheetjs) - 电子表格数据工具箱。
+  - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet，一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。
   - [exceljs](https://github.com/exceljs/exceljs) - Excel工作表管理工具。
   - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX生成和解析工具，可运行在Node和浏览器。
 

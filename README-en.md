@@ -173,6 +173,7 @@ English | [简体中文](./README.md)
 
 - Excel
   - [sheetjs](https://github.com/SheetJS/sheetjs) - Spreadsheet Data Toolkit.
+  - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
   - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager.
   - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX parser/generator written in JavaScript with Node.js and browser support.
 
