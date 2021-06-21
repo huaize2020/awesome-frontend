@@ -18,6 +18,7 @@
   - [WebGL](#webgl)
   - [数据可视化](#数据可视化)
   - [游戏](#游戏)
+  - [代码查看/代码高亮](#代码查看代码高亮)
   - [编辑器](#编辑器)
   - [办公软件](#办公软件)
 
@@ -141,6 +142,12 @@
 
 - [phaser](https://github.com/photonstorm/phaser) - Phaser 是一个有趣、免费且快速的 2D 游戏框架，用于为桌面和移动的浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染。
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js 是一个功能强大、美观、简单、开放的游戏和渲染引擎。
+- [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - 用于 Web 浏览器的 Cocos2d。 使用 JavaScript 构建。
+
+### 代码查看/代码高亮
+
+- [highlight.js](https://github.com/highlightjs/highlight.js) - 语言自动检测 和 零依赖的 JavaScript 语法高亮器。
+- [prism](https://github.com/PrismJS/prism) - 轻量级、健壮、优雅的语法高亮。
 
 ### 编辑器
 

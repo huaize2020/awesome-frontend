@@ -18,6 +18,7 @@ English | [简体中文](./README.md)
   - [WebGL](#webgl)
   - [Data Visualization](#data-visualization)
   - [Game](#game)
+  - [Code View/Code Highlight](#code-viewcode-highlight)
   - [Editor](#editor)
   - [Office](#office)
 
@@ -142,6 +143,12 @@ English | [简体中文](./README.md)
 
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
+
+### Code View/Code Highlight
+
+- [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
+- [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 
 ### Editor
 
