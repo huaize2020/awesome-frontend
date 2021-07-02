@@ -192,3 +192,10 @@
   - [@phuocng/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - 用于查看PDF文档的React组件。
   - [@mikecousins/react-pdf](https://github.com/mikecousins/react-pdf-js) - 封装了PDF.js的React组件。
   - [react-file-viewer](https://github.com/plangrid/react-file-viewer) - 可扩展的web文件查看器。
+
+- 演示/幻灯片
+  - [reveal.js](https://github.com/hakimel/reveal.js) - HTML展示框架。
+  - [impress.js](https://github.com/bartaz/impress.js) - 它是一个基于现代浏览器中CSS3 transforms和transitions的强大功能的展示框架。
+  - [deck.js](https://github.com/imakewebthings/deck.js) - 现代HTML演示文稿。
+  - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY展示的微框架。
+  - [shower](https://github.com/shower/shower) - Shower HTML演示引擎。
