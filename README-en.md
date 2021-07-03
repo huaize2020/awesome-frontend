@@ -193,3 +193,10 @@ English | [简体中文](./README.md)
   - [@phuocng/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document.
   - [@mikecousins/react-pdf](https://github.com/mikecousins/react-pdf-js) - A React component to wrap PDF.js.
   - [react-file-viewer](https://github.com/plangrid/react-file-viewer) - Extendable file viewer for web.
+
+- Presentation/PPT
+  - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
+  - [impress.js](https://github.com/bartaz/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+  - [deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations.
+  - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework.
+  - [shower](https://github.com/shower/shower) - Shower HTML presentation engine.
