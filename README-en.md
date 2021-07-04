@@ -95,6 +95,7 @@ English | [简体中文](./README.md)
 ### WebGL
 
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps.
 - [Oasis Engine](https://github.com/oasis-engine/engine) - Oasis Engine is a web-first and mobile-first high-performance real-time development platform.
 
