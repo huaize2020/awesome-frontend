@@ -94,6 +94,7 @@
 ### WebGL
 
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D库。
+- [pixijs](https://github.com/pixijs/pixijs) - HTML5创意引擎：用最快、最灵活的2D WebGL渲染器创建漂亮的数码内容。
 - [gl-matrix](https://github.com/toji/gl-matrix) - 用于操作矩阵和向量，开发高性能的 WebGL 应用程序的JavaScript库。
 - [Oasis Engine](https://github.com/oasis-engine/engine) - Oasis Engine 是一个Web优先 和 移动端优先的高性能实时开发平台。
 
