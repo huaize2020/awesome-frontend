@@ -14,8 +14,9 @@
   - [数字](#数字)
   - [数学运算](#数学运算)
   - [日期 和 时间](#日期-和-时间)
-  - [框架](#框架)
+  - [JavaScript框架](#javascript框架)
   - [WebGL](#webgl)
+  - [动画](#动画)
   - [数据可视化](#数据可视化)
   - [游戏](#游戏)
   - [代码查看/代码高亮](#代码查看代码高亮)
@@ -50,6 +51,7 @@
 - 动画
   - [animate.css](https://github.com/animate-css/animate.css) - 跨浏览器CSS动画库。简单易用。
   - [Hover.css](https://github.com/IanLunn/Hover) - 一个悬停效果的CSS3集合，可应用于链接、按钮、徽标、SVG、特色图像等。提供CSS、Sass等版本。
+  - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - 令人愉快的、注重性能的纯 css 加载动画。
 
 ### 数字
 
@@ -83,7 +85,7 @@
 - [strftime](https://github.com/samsonjs/strftime) - JavaScript版时间格式化Strftime。
 - [date-utils](https://github.com/JerrySievert/date-utils) - 用于Node.js和浏览器的日期垫片（Polyfills）。
 
-### 框架
+### JavaScript框架
 
 - [vue](https://github.com/vuejs/vue) - Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式框架。
 - [react](https://github.com/facebook/react) - 用于构建用户界面的 JavaScript 库。
@@ -97,6 +99,11 @@
 - [pixijs](https://github.com/pixijs/pixijs) - HTML5创意引擎：用最快、最灵活的2D WebGL渲染器创建漂亮的数码内容。
 - [gl-matrix](https://github.com/toji/gl-matrix) - 用于操作矩阵和向量，开发高性能的 WebGL 应用程序的JavaScript库。
 - [Oasis Engine](https://github.com/oasis-engine/engine) - Oasis Engine 是一个Web优先 和 移动端优先的高性能实时开发平台。
+
+### 动画
+
+- [anime.js](https://github.com/juliangarnier/anime) - JavaScript 动画引擎。
+- [lottie-web](https://github.com/airbnb/lottie-web) - 在Web、Android和iOS以及React Native上渲染After Effects动画。
 
 ### 数据可视化
 
@@ -137,6 +144,7 @@
 
 - 地图
   - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet 是对移动端友好的开源领先的交互式地图库。
+  - [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 支持的地理空间可视化层。
   - [OpenLayers](https://github.com/openlayers/openlayers) - 高性能、功能丰富的库，用于在 Web 上创建交互式地图。
   - [cesium](https://github.com/CesiumGS/cesium) - 用于世界级 3D 地球仪和地图的开源 JavaScript 库。
   - [L7](https://github.com/antvis/L7) - 基于 WebGL 的开源大规模地理空间数据可视分析开发框架。
@@ -146,6 +154,7 @@
 - [phaser](https://github.com/photonstorm/phaser) - Phaser 是一个有趣、免费且快速的 2D 游戏框架，用于为桌面和移动的浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染。
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js 是一个功能强大、美观、简单、开放的游戏和渲染引擎。
 - [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - 用于 Web 浏览器的 Cocos2d。 使用 JavaScript 构建。
+- [limejs](https://github.com/digitalfruit/limejs) - 网页和iOS的HTML5游戏框架。
 
 ### 代码查看/代码高亮
 
