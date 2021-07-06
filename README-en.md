@@ -14,8 +14,9 @@ English | [简体中文](./README.md)
   - [Number](#number)
   - [Math](#math)
   - [Date & Time](#date--time)
-  - [Framework](#framework)
+  - [JavaScript Framework](#javascript-framework)
   - [WebGL](#webgl)
+  - [Animation](#animation)
   - [Data Visualization](#data-visualization)
   - [Game](#game)
   - [Code View/Code Highlight](#code-viewcode-highlight)
@@ -51,6 +52,7 @@ English | [简体中文](./README.md)
 - Animation
   - [animate.css](https://github.com/animate-css/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
   - [Hover.css](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
+  - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 
 ### Number
 
@@ -84,7 +86,7 @@ English | [简体中文](./README.md)
 - [strftime](https://github.com/samsonjs/strftime) - Strftime for JavaScript.
 - [date-utils](https://github.com/JerrySievert/date-utils) - Date Pollyfills for Node.js and Browser.
 
-### Framework
+### JavaScript Framework
 
 - [vue](https://github.com/vuejs/vue) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -98,6 +100,11 @@ English | [简体中文](./README.md)
 - [pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps.
 - [Oasis Engine](https://github.com/oasis-engine/engine) - Oasis Engine is a web-first and mobile-first high-performance real-time development platform.
+
+### Animation
+
+- [anime.js](https://github.com/juliangarnier/anime) - JavaScript animation engine.
+- [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native.
 
 ### Data Visualization
 
@@ -138,6 +145,7 @@ English | [简体中文](./README.md)
 
 - Map
   - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
+  - [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers.
   - [OpenLayers](https://github.com/openlayers/openlayers) - A high-performance, feature-packed library for all your mapping needs.
   - [cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps.
   - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps.
@@ -147,6 +155,7 @@ English | [简体中文](./README.md)
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
+- [limejs](https://github.com/digitalfruit/limejs) - HTML5 game framework for web and iOS.
 
 ### Code View/Code Highlight
 
