@@ -93,6 +93,7 @@ English | [简体中文](./README.md)
 - [angular](https://github.com/angular/angular) - The modern web developer’s platform.
 - [svelte](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications, Cybernetically enhanced web apps.
 - [preact](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement.
 
 ### WebGL
 
