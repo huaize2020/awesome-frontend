@@ -92,6 +92,7 @@
 - [angular](https://github.com/angular/angular) - 现代 Web 开发平台。
 - [svelte](https://github.com/sveltejs/svelte) - Svelte 是一种全新的构建用户界面的方法，增强的Web应用程序。
 - [preact](https://github.com/preactjs/preact) - Preact 是 React 的轻量化替代方案，仅有 3KB。并且提供了相同的 ES6 API，还具有组件和 Virtual DOM。
+- [petite-vue](https://github.com/vuejs/petite-vue) - Vue子集，优化渐进增强，仅 5kb。
 
 ### WebGL
 
