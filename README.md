@@ -15,6 +15,7 @@
   - [数学运算](#数学运算)
   - [日期 和 时间](#日期-和-时间)
   - [JavaScript框架](#javascript框架)
+  - [微前端](#微前端)
   - [WebGL](#webgl)
   - [动画](#动画)
   - [数据可视化](#数据可视化)
@@ -93,6 +94,13 @@
 - [svelte](https://github.com/sveltejs/svelte) - Svelte 是一种全新的构建用户界面的方法，增强的Web应用程序。
 - [preact](https://github.com/preactjs/preact) - Preact 是 React 的轻量化替代方案，仅有 3KB。并且提供了相同的 ES6 API，还具有组件和 Virtual DOM。
 - [petite-vue](https://github.com/vuejs/petite-vue) - Vue子集，优化渐进增强，仅 5kb。
+
+### 微前端
+
+- [qiankun](https://github.com/umijs/qiankun) -  快速、简单和完整的微前端解决方案。
+- [single-spa](https://github.com/single-spa/single-spa) - 简单微前端的路由器。
+- [emp](https://github.com/efoxTeam/emp) - 这是一个面向未来的，基于Webpack5 Module Federation搭建的微前端解决方案。
+- [piral](https://github.com/smapiot/piral) - 使用微前端的下一代 Web 应用程序框架。
 
 ### WebGL
 
