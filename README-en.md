@@ -15,6 +15,7 @@ English | [简体中文](./README.md)
   - [Math](#math)
   - [Date & Time](#date--time)
   - [JavaScript Framework](#javascript-framework)
+  - [Micro Frontend](#micro-frontend)
   - [WebGL](#webgl)
   - [Animation](#animation)
   - [Data Visualization](#data-visualization)
@@ -94,6 +95,13 @@ English | [简体中文](./README.md)
 - [svelte](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications, Cybernetically enhanced web apps.
 - [preact](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement.
+
+### Micro Frontend
+
+- [qiankun](https://github.com/umijs/qiankun) -  Blazing fast, simple and completed solution for micro frontends.
+- [single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends.
+- [emp](https://github.com/efoxTeam/emp) - EMP Micro FE Base on webpack 5 & module federation.
+- [piral](https://github.com/smapiot/piral) - Framework for next generation web apps using microfrontends.
 
 ### WebGL
 
