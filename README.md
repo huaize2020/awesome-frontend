@@ -23,6 +23,7 @@
   - [代码查看/代码高亮](#代码查看代码高亮)
   - [编辑器](#编辑器)
   - [办公软件](#办公软件)
+  - [Web Components](#web-components)
 
 ## 官方文档
 
@@ -219,3 +220,12 @@
   - [deck.js](https://github.com/imakewebthings/deck.js) - 现代HTML演示文稿。
   - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY展示的微框架。
   - [shower](https://github.com/shower/shower) - Shower HTML演示引擎。
+
+### Web Components
+*(You might like [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*
+
+- [polymer](https://github.com/polymer/polymer) - Our original Web Component library.
+- [lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
+- [skatejs](https://github.com/skatejs/skatejs) - Skate is a functional reactive abstraction over the web component standards as a set of packages that enables you to write small, fast and scalable web components using popular view libraries such as React, Preact and LitHTML.
+- [x-tag](https://github.com/x-tag/core) - Custom Elements for Modern Browsers.
+- [slim.js](https://github.com/slimjs/slim.js) - Slim is an ultra fast, native and elegant library for Web Components development.
