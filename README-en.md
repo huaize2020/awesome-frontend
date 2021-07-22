@@ -223,10 +223,10 @@ English | [简体中文](./README.md)
   - [shower](https://github.com/shower/shower) - Shower HTML presentation engine.
 
 ### Web Components
-*(你也许喜欢 [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*
+*(You might like [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*
 
-- [polymer](https://github.com/polymer/polymer) - Web Component 库。
-- [lit](https://github.com/lit/lit) - Lit是一个简易的用于构建快速、轻量的Web Components库。
-- [skatejs](https://github.com/skatejs/skatejs) - Skate 是基于 Web Components 标准的函数式响应式抽象，使您能够使用流行的视图库（如 React、Preact 和 LitHTML一样）编写小型、快速和可扩展的 Web 组件。
-- [x-tag](https://github.com/x-tag/core) - 现代浏览器自定义组件。
-- [slim.js](https://github.com/slimjs/slim.js) - Slim是一个用于Web Components开发的超快，原生和优雅的库。
+- [polymer](https://github.com/polymer/polymer) - Our original Web Component library.
+- [lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
+- [skatejs](https://github.com/skatejs/skatejs) - Skate is a functional reactive abstraction over the web component standards as a set of packages that enables you to write small, fast and scalable web components using popular view libraries such as React, Preact and LitHTML.
+- [x-tag](https://github.com/x-tag/core) - Custom Elements for Modern Browsers.
+- [slim.js](https://github.com/slimjs/slim.js) - Slim is an ultra fast, native and elegant library for Web Components development.
