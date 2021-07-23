@@ -160,6 +160,10 @@
   - [L7](https://github.com/antvis/L7) - 基于 WebGL 的开源大规模地理空间数据可视分析开发框架。
   - [tangram](https://github.com/tangrams/tangram) - 用于创造性制图的WebGL地图绘制引擎。
 
+- 其他
+  - [mermaid](https://github.com/mermaid-js/mermaid) - 以与 Markdown 类似的方式从文本生成图表和流程图。
+  - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - 从图表表示的文本中绘制简单的 SVG 序列图。
+
 ### 游戏
 
 - [phaser](https://github.com/photonstorm/phaser) - Phaser 是一个有趣、免费且快速的 2D 游戏框架，用于为桌面和移动的浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染。
