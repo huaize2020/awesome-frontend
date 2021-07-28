@@ -206,11 +206,13 @@
 
 - Excel
   - [sheetjs](https://github.com/SheetJS/sheetjs) - 电子表格数据工具箱。
+  - [handsontable](https://github.com/handsontable/handsontable) - 带有电子表格外观的 JavaScript 数据网格。 适用于 React、Angular 和 Vue。
   - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet，一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。
   - [exceljs](https://github.com/exceljs/exceljs) - Excel工作表管理工具。
   - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX生成和解析工具，可运行在Node和浏览器。
 
 - PDF
+  - [pdf.js](https://github.com/mozilla/pdf.js) - PDF JavaScript阅读库。
   - [jsPDF](https://github.com/MrRio/jsPDF) - 使用JavaScript生成PDF文件的库。
   - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - 用于在浏览器和服务器上渲染PDF文件。
   - [react-pdf](https://github.com/wojtekmaj/react-pdf) - 在React应用程序中轻松显示PDF，就像它们是图像一样。
