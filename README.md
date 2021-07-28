@@ -1,237 +1,238 @@
-[English](./README-en.md) | 简体中文
+English | [简体中文](./README.md)
 
-> 正在持续建设中...
-> 同时推荐你查看我另一个仓库 [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)!
+> Under continuous construction...
+> You can also see [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)!
 
-## 目录
+## Table of contents
 
-- [目录](#目录)
-- [官方文档](#官方文档)
-  - [Web技术](#web技术)
+- [Table of contents](#table-of-contents)
+- [Official](#official)
+  - [Web](#web)
   - [ECMAScript](#ecmascript)
-- [GIT仓库](#git仓库)
+- [Repository](#repository)
   - [CSS](#css)
-  - [数字](#数字)
-  - [数学运算](#数学运算)
-  - [日期 和 时间](#日期-和-时间)
-  - [JavaScript框架](#javascript框架)
-  - [微前端](#微前端)
+  - [Number](#number)
+  - [Math](#math)
+  - [Date & Time](#date--time)
+  - [JavaScript Framework](#javascript-framework)
+  - [Micro Frontend](#micro-frontend)
   - [WebGL](#webgl)
-  - [动画](#动画)
-  - [数据可视化](#数据可视化)
-  - [游戏](#游戏)
-  - [代码查看/代码高亮](#代码查看代码高亮)
-  - [编辑器](#编辑器)
-  - [办公软件](#办公软件)
+  - [Animation](#animation)
+  - [Data Visualization](#data-visualization)
+  - [Game](#game)
+  - [Code View/Code Highlight](#code-viewcode-highlight)
+  - [Editor](#editor)
+  - [Office](#office)
   - [Web Components](#web-components)
 
-## 官方文档
+## Official
 
-### Web技术
+### Web
 
-- [W3c Standards](https://www.w3.org/standards/) - W3c标准
-- [MDN Web](https://developer.mozilla.org/zh-CN/docs/Web) - MDN Web技术(你可以修改语言查看)
+- [W3c Standards](https://www.w3.org/standards/) - W3c Standards
+- [MDN Web](https://developer.mozilla.org/en-US/docs/Web) - MDN Web technology for developers (You can Change your language)
 
 ### ECMAScript
-- [ECMAScript® 5.1 Specification](https://262.ecma-international.org/5.1/) - ECMAScript 5.1 规格
-- [ECMAScript® 2015 Language Specification](https://262.ecma-international.org/6.0/) - ECMAScript 2015 规格
-- [ECMAScript® 2016 Language Specification](https://262.ecma-international.org/7.0/) - ECMAScript 2016 规格
-- [ECMAScript Current Proposals](https://tc39.es/ecma262/) - ECMAScript 当前的所有提案
-  - [ECMAScript Current Proposals Github](https://github.com/tc39/ecma262) - ECMAScript 当前的所有提案Github仓库
-- [TC39 meeting agendas](https://github.com/tc39/agendas) - TC39 委员会历年的会议记录
-- [ECMAScript Daily](https://ecmascript-daily.github.io/) - TC39 委员会的动态
-- [The TC39 Process](https://tc39.es/process-document/) - 提案进入正式规格的流程
 
-## GIT仓库
+- [ECMAScript® 5.1 Specification](https://262.ecma-international.org/5.1/) - ECMAScript® 5.1 Specification
+- [ECMAScript® 2015 Language Specification](https://262.ecma-international.org/6.0/) - ECMAScript® 2015 Language Specification
+- [ECMAScript® 2016 Language Specification](https://262.ecma-international.org/7.0/) - ECMAScript® 2016 Language Specification
+- [ECMAScript Current Proposals](https://tc39.es/ecma262/) - ECMAScript Current Proposals
+  - [ECMAScript Current Proposals Github](https://github.com/tc39/ecma262) - ECMAScript Current Proposals Github
+- [TC39 meeting agendas](https://github.com/tc39/agendas) - TC39 meeting agendas
+- [ECMAScript Daily](https://ecmascript-daily.github.io/) - TC39 ECMAScript Daily
+- [The TC39 Process](https://tc39.es/process-document/) - The TC39 Process
+
+## Repository
 
 ### CSS
 
-- 框架
-  - [bulma](https://github.com/jgthms/bulma) - 基于 Flexbox 的现代CSS框架。
-  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - 一个功能类优先的 CSS 框架。
+- Framework
+  - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
+  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 
-- 动画
-  - [animate.css](https://github.com/animate-css/animate.css) - 跨浏览器CSS动画库。简单易用。
-  - [Hover.css](https://github.com/IanLunn/Hover) - 一个悬停效果的CSS3集合，可应用于链接、按钮、徽标、SVG、特色图像等。提供CSS、Sass等版本。
-  - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - 令人愉快的、注重性能的纯 css 加载动画。
+- Animation
+  - [animate.css](https://github.com/animate-css/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+  - [Hover.css](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
+  - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 
-### 数字
+### Number
 
-- [Numeral.js](https://github.com/adamwdraper/Numeral-js) - 格式化和操作数字。
-- [bignumber.js](https://github.com/MikeMcl/bignumber.js) - 用于任意精度十进制和非十进制算术的 JavaScript 库。
-- [decimal.js](https://github.com/MikeMcl/decimal.js) - JavaScript的任意精度的十进制类型。
-- [big.js](https://github.com/MikeMcl/big.js) - 一个小型，快速的JavaScript库，用于任意精度的十进制算术运算。
-- [round-to](https://github.com/sindresorhus/round-to) - 将数字四舍五入到指定的小数位数：`1.234`→1.2`。
-- [unique-random](https://github.com/sindresorhus/unique-random) - 生成连续唯一的随机数。
-- [random-int](https://github.com/sindresorhus/random-int) - 生成随机整数。
-- [random-float](https://github.com/sindresorhus/random-float) - 生成随机浮点数。
+- [Numeral.js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
+- [bignumber.js](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic.
+- [decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript.
+- [big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
+- [round-to](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
+- [unique-random](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
+- [random-int](https://github.com/sindresorhus/random-int) - Generate a random integer.
+- [random-float](https://github.com/sindresorhus/random-float) - Generate a random float.
 
-### 数学运算
+### Math
 
-- [mathjs](https://github.com/josdejong/mathjs) - 广泛的数学运算库。
-- [ndarray](https://github.com/scijs/ndarray) - 多维数组。
-- [algebra](https://github.com/fibo/algebra) - 代数结构。
-- [multimath](https://github.com/nodeca/multimath) - 在WebAssembly和JS中进行快速图像数学运算。
+- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
+- [ndarray](https://github.com/scijs/ndarray) - Multidimensional arrays.
+- [algebra](https://github.com/fibo/algebra) - Algebraic structures.
+- [multimath](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
 
-### 日期 和 时间
+### Date & Time
 
-- [moment](https://github.com/moment/moment) - 解析、校验、操作和显示日期。
-- [dayjs](https://github.com/iamkun/dayjs) - 仅2KB，不可变的日期时间库。使用与Moment.js同样的API，Moment.js的替代库。
-- [date-fns](https://github.com/date-fns/date-fns) - 现代JavaScript日期工具库。
-- [luxon](https://github.com/moment/luxon) - 用于处理日期和时间的库。
-- [timeago.js](https://github.com/hustcc/timeago.js) - timeago.js是一个很小的（2.0 kb）库，用于使用 *** time ago 语句格式化日期。
-    - [timeago-react](https://github.com/hustcc/timeago-react) - 简单高效的react组件使用 `*** time ago` 语句格式化日期。 例如：'3 hours ago'。
-- [ms](https://github.com/vercel/ms) - 毫秒转换工具。
-- [dateformat](https://github.com/felixge/node-dateformat) - 日期格式化。
-- [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 将毫秒转换为人类可读的字符串，如: `1337000000` → `15d 11h 23m 20s`。
-- [strftime](https://github.com/samsonjs/strftime) - JavaScript版时间格式化Strftime。
-- [date-utils](https://github.com/JerrySievert/date-utils) - 用于Node.js和浏览器的日期垫片（Polyfills）。
+- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+- [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API.
+- [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
+- [luxon](https://github.com/moment/luxon) - Library for working with dates and times.
+- [timeago.js](https://github.com/hustcc/timeago.js) - 🕗 ⌛ timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
+  - [timeago-react](https://github.com/hustcc/timeago-react) - Simple and efficient react component to format date with `*** time ago` statement. eg: '3 hours ago'.
+- [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
+- [dateformat](https://github.com/felixge/node-dateformat) - A node.js package for Steven Levithan's excellent dateFormat() function.
+- [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
+- [strftime](https://github.com/samsonjs/strftime) - Strftime for JavaScript.
+- [date-utils](https://github.com/JerrySievert/date-utils) - Date Pollyfills for Node.js and Browser.
 
-### JavaScript框架
+### JavaScript Framework
 
-- [vue](https://github.com/vuejs/vue) - Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式框架。
-- [react](https://github.com/facebook/react) - 用于构建用户界面的 JavaScript 库。
-- [angular](https://github.com/angular/angular) - 现代 Web 开发平台。
-- [svelte](https://github.com/sveltejs/svelte) - Svelte 是一种全新的构建用户界面的方法，增强的Web应用程序。
-- [preact](https://github.com/preactjs/preact) - Preact 是 React 的轻量化替代方案，仅有 3KB。并且提供了相同的 ES6 API，还具有组件和 Virtual DOM。
-- [petite-vue](https://github.com/vuejs/petite-vue) - Vue子集，优化渐进增强，仅 5kb。
+- [vue](https://github.com/vuejs/vue) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [angular](https://github.com/angular/angular) - The modern web developer’s platform.
+- [svelte](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications, Cybernetically enhanced web apps.
+- [preact](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement.
 
-### 微前端
+### Micro Frontend
 
-- [qiankun](https://github.com/umijs/qiankun) -  快速、简单和完整的微前端解决方案。
-- [single-spa](https://github.com/single-spa/single-spa) - 简单微前端的路由器。
-- [emp](https://github.com/efoxTeam/emp) - 这是一个面向未来的，基于Webpack5 Module Federation搭建的微前端解决方案。
-- [piral](https://github.com/smapiot/piral) - 使用微前端的下一代 Web 应用程序框架。
+- [qiankun](https://github.com/umijs/qiankun) -  Blazing fast, simple and completed solution for micro frontends.
+- [single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends.
+- [emp](https://github.com/efoxTeam/emp) - EMP Micro FE Base on webpack 5 & module federation.
+- [piral](https://github.com/smapiot/piral) - Framework for next generation web apps using microfrontends.
 
 ### WebGL
 
-- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D库。
-- [pixijs](https://github.com/pixijs/pixijs) - HTML5创意引擎：用最快、最灵活的2D WebGL渲染器创建漂亮的数码内容。
-- [gl-matrix](https://github.com/toji/gl-matrix) - 用于操作矩阵和向量，开发高性能的 WebGL 应用程序的JavaScript库。
-- [Oasis Engine](https://github.com/oasis-engine/engine) - Oasis Engine 是一个Web优先 和 移动端优先的高性能实时开发平台。
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps.
+- [Oasis Engine](https://github.com/oasis-engine/engine) - Oasis Engine is a web-first and mobile-first high-performance real-time development platform.
 
-### 动画
+### Animation
 
-- [anime.js](https://github.com/juliangarnier/anime) - JavaScript 动画引擎。
-- [lottie-web](https://github.com/airbnb/lottie-web) - 在Web、Android和iOS以及React Native上渲染After Effects动画。
+- [anime.js](https://github.com/juliangarnier/anime) - JavaScript animation engine.
+- [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native.
 
-### 数据可视化
+### Data Visualization
 
-- 引擎
-  - [D3.js](https://github.com/d3/d3) - 一个可以基于数据来操作文档的 JavaScript 库。 *(你也许会喜欢 [awesome-d3](https://github.com/wbkd/awesome-d3))*
-    - [vx](https://github.com/hshoff/vx) - react + d3 = vx | 可视化组件。
-  - [Raphaël](http://raphaeljs.com/) - Raphaël 是一个小型 JavaScript 库，它可以简化您在网站上操作矢量图形的工作。
-  - [zrender](https://github.com/ecomfe/zrender) - 2d 绘图的轻量级图形库。
-  - [g](https://github.com/antvis/g) - 强大的渲染引擎，为 G2 和 G6 提供 Canvas 和 SVG 绘制。
+- Engine
+  - [D3.js](https://github.com/d3/d3) - A JavaScript library for manipulating documents based on data. *(You might like [awesome-d3](https://github.com/wbkd/awesome-d3))*
+    - [vx](https://github.com/hshoff/vx) - react + d3 = vx | visualization components.
+  - [Raphaël](http://raphaeljs.com/) - Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
+  - [zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts.
+  - [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6.
 
-- 通用
-  - [ECharts](https://github.com/apache/echarts) - 来自百度的强大图表库。
-    - [v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件。
-    - [vue-echarts](https://github.com/ecomfe/vue-echarts) - 使用 Apache ECharts 5，同时支持 Vue.js 2/3。
-  - [plotly.js](https://github.com/plotly/plotly.js) - 开源 JavaScript 图形库。
-  - [HighCharts](https://github.com/highcharts/highcharts) - 为您的 Web 项目轻松创建交互式图表。
+- Common
+  - [ECharts](https://github.com/apache/echarts) - A powerful charts library from Baidu.
+    - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts.
+    - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Uses Apache ECharts 5 and works for both Vue.js 2/3.
+  - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers Plotly.
+  - [HighCharts](https://github.com/highcharts/highcharts) - Create interactive charts easily for your web projects.
 
-- 图表
-  - [Chart.js](https://github.com/chartjs/Chart.js) - 使用 `<canvas>` 标签创建 HTML5 图表。
-  - [charts](https://github.com/frappe/charts) - 简单、响应式、零依赖的现代 SVG 图表。
-  - [G2](https://github.com/antvis/g2) - JavaScript 中的图形语法。
-    - [BizCharts](https://github.com/alibaba/BizCharts/) - 基于 G2 和 React 的强大数据可视化库。
-    - [g2plot](https://github.com/antvis/g2plot) - 一个交互式响应式的图表库。
-    - [viser](https://github.com/viserjs/viser) - Viser 是一个适用于数据可视化工程师的工具。
-  - [ApexCharts](https://github.com/apexcharts/apexcharts.js) - 基于 SVG 的交互式 JavaScript 图表。
-  - [F2](https://github.com/antvis/f2) - 一个优雅的、交互式的、灵活的移动图表库。
-  - [uPlot](https://github.com/leeoniya/uPlot) - 小而快速的图表k库，可制作时序图、折线图、面积图、OHLC图和饼图。
-  - [flot](http://github.com/flot/flot) - 基于jQuery的优雅的JavaScript图表库。
-  - [Peity](https://github.com/benpickles/peity) - 渐进式 <svg> 饼图、圆环图、条形图和折线图。
+- Charts
+  - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag.
+  - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies.
+  - [G2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript.
+    - [BizCharts](https://github.com/alibaba/BizCharts/) - Powerful data visualization library based on G2 and React.
+    - [g2plot](https://github.com/antvis/g2plot) - An interactive and responsive charting library.
+    - [viser](https://github.com/viserjs/viser) - Viser is a toolkit fit for data vis engineer.
+  - [ApexCharts](https://github.com/apexcharts/apexcharts.js) - Interactive JavaScript Charts built on SVG.
+  - [F2](https://github.com/antvis/f2) - An elegant, interactive and flexible charting library for mobile.
+  - [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars.
+  - [flot](http://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
+  - [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts.
 
-- 关系图
-  - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma 是一个专门用于关系图绘制的 JavaScript 库。
-  - [G6](https://github.com/antvis/G6) - 便捷的关系数据可视化引擎与图分析工具。
-    - [graphin](https://github.com/antvis/graphin) - 基于 G6 封装的React图分析应用组件。
-  - [cytoscape.js](https://github.com/cytoscape/cytoscape.js) - 用于可视化和分析的图论（网络）库。
-  - [Springy](https://github.com/dhotson/springy/) - 一个力导图布局算法。
-  - [WebCola](https://github.com/tgdwyer/WebCola) - Javascript版约束图形布局。
+- Graphs
+  - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma is a JavaScript library dedicated to graph drawing.
+  - [G6](https://github.com/antvis/G6) - A Graph Visualization Framework in JavaScript.
+    - [graphin](https://github.com/antvis/graphin) - A React toolkit for graph visualization based on G6.
+  - [cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis.
+  - [Springy](https://github.com/dhotson/springy/) - Springy is a force directed graph layout algorithm.
+  - [WebCola](https://github.com/tgdwyer/WebCola) - Javascript constraint-based graph layout.
 
-- 地图
-  - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet 是对移动端友好的开源领先的交互式地图库。
-  - [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 支持的地理空间可视化层。
-  - [OpenLayers](https://github.com/openlayers/openlayers) - 高性能、功能丰富的库，用于在 Web 上创建交互式地图。
-  - [cesium](https://github.com/CesiumGS/cesium) - 用于世界级 3D 地球仪和地图的开源 JavaScript 库。
-  - [L7](https://github.com/antvis/L7) - 基于 WebGL 的开源大规模地理空间数据可视分析开发框架。
-  - [tangram](https://github.com/tangrams/tangram) - 用于创造性制图的WebGL地图绘制引擎。
+- Map
+  - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
+  - [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers.
+  - [OpenLayers](https://github.com/openlayers/openlayers) - A high-performance, feature-packed library for all your mapping needs.
+  - [cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps.
+  - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps.
+  - [tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography.
 
-- 其他
-  - [mermaid](https://github.com/mermaid-js/mermaid) - 以与 Markdown 类似的方式从文本生成图表和流程图。
-  - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - 从图表表示的文本中绘制简单的 SVG 序列图。
+- Other
+  - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown.
+  - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram.
 
-### 游戏
+### Game
 
-- [phaser](https://github.com/photonstorm/phaser) - Phaser 是一个有趣、免费且快速的 2D 游戏框架，用于为桌面和移动的浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染。
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js 是一个功能强大、美观、简单、开放的游戏和渲染引擎。
-- [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - 用于 Web 浏览器的 Cocos2d。 使用 JavaScript 构建。
-- [limejs](https://github.com/digitalfruit/limejs) - 网页和iOS的HTML5游戏框架。
+- [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
+- [limejs](https://github.com/digitalfruit/limejs) - HTML5 game framework for web and iOS.
 
-### 代码查看/代码高亮
+### Code View/Code Highlight
 
-- [highlight.js](https://github.com/highlightjs/highlight.js) - 语言自动检测 和 零依赖的 JavaScript 语法高亮器。
-- [prism](https://github.com/PrismJS/prism) - 轻量级、健壮、优雅的语法高亮。
+- [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
+- [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 
-### 编辑器
+### Editor
 
-- 富文本编辑器
-  - [quill](https://github.com/quilljs/quill) - 为兼容性和可扩展性而构建的现代所见即所得(WYSIWYG)编辑器。
-  - [slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于在浏览器中构建富文本编辑器。
-  - [draft.js](https://github.com/facebook/draft-js) - Draft.js 是一个 JavaScript 富文本编辑器框架，为 React 构建并由不可变模型支持。
-  - [medium-editor](https://github.com/yabwe/medium-editor) - 从Medium.com 所见即所得编辑器 克隆 而出。使用 contenteditable API 实现富文本解决方案。
-  - [wangEditor](https://github.com/wangeditor-team/wangEditor) - 轻量级web富文本框。
-  - [tinymce](https://github.com/tinymce/tinymce) - 用于富文本编辑的 JavaScript 库。 适用于 React、Vue 和 Angular。
-  - [ckeditor4](https://github.com/ckeditor/ckeditor4) - 最好的企业级所见即所得编辑器。完全可定制的无数功能和插件。
-  - [simditor](https://github.com/mycolorway/simditor) - 一个简单快速的所见即所得(WYSIWYG)编辑器。
-  - [ckeditor5](https://github.com/ckeditor/ckeditor5) - 最好的企业级所见即所得编辑器。 完全可定制的无数功能和插件。
-  - [substance](https://github.com/substance/substance) - 用于基于 Web 的内容编辑的 JavaScript 库。
-  - [neditor](https://github.com/notadd/neditor) - 基于ueditor的更现代化的富文本编辑器，支持HTTPS。
+- Rich Text Editor
+  - [quill](https://github.com/quilljs/quill) - A modern WYSIWYG editor built for compatibility and extensibility.
+  - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors in the browser.
+  - [draft.js](https://github.com/facebook/draft-js) - Draft.js is a JavaScript rich text editor framework, built for React and backed by an immutable model.
+  - [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+  - [wangEditor](https://github.com/wangeditor-team/wangEditor) - Lightweight web rich text editor.
+  - [tinymce](https://github.com/tinymce/tinymce) - JavaScript library for rich text editing. Available for React, Vue and Angular.
+  - [ckeditor4](https://github.com/ckeditor/ckeditor4) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
+  - [simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor.
+  - [ckeditor5](https://github.com/ckeditor/ckeditor5) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
+  - [substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
+  - [neditor](https://github.com/notadd/neditor) - Modern Rich Text Editor based on ueditor, support HTTPS.
 
-- 代码编辑器
-  - [monaco-editor](https://github.com/Microsoft/monaco-editor) - 基于浏览器端代码编辑器。
-  - [ace](https://github.com/ajaxorg/ace) - Ace是使用JavaScript编写的独立代码编辑器。
-  - [CodeMirror](https://github.com/codemirror/CodeMirror) - 浏览器端代码编辑器。
+- Code Editor
+  - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor.
+  - [ace](https://github.com/ajaxorg/ace) - Ace is a standalone code editor written in JavaScript.
+  - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor.
 
-- Markdown编辑器
-  - [stackedit](https://github.com/benweet/stackedit) - 浏览器端Markdown编辑器。
-  - [Editor.md](https://github.com/pandao/editor.md) - 开源可嵌入在线编辑器（组件）。
-  - [Markdown Plus](https://github.com/tylingsoft/markdown-plus) - 具有额外功能的 Markdown 编辑器。
-  - [bytemd](https://github.com/bytedance/bytemd) - 一个用 Svelte 构建 (hackable) 的 Markdown 编辑器组件。
+- Markdown Editor
+  - [stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor.
+  - [Editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+  - [Markdown Plus](https://github.com/tylingsoft/markdown-plus) - Markdown editor with extra features.
+  - [bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component built with Svelte.
 
-### 办公软件
+### Office
 
 - Excel
-  - [sheetjs](https://github.com/SheetJS/sheetjs) - 电子表格数据工具箱。
-  - [handsontable](https://github.com/handsontable/handsontable) - 带有电子表格外观的 JavaScript 数据网格。 适用于 React、Angular 和 Vue。
-  - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet，一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。
-  - [exceljs](https://github.com/exceljs/exceljs) - Excel工作表管理工具。
-  - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX生成和解析工具，可运行在Node和浏览器。
+  - [sheetjs](https://github.com/SheetJS/sheetjs) - Spreadsheet Data Toolkit.
+  - [handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue.
+  - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+  - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager.
+  - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX parser/generator written in JavaScript with Node.js and browser support.
 
 - PDF
-  - [pdf.js](https://github.com/mozilla/pdf.js) - PDF JavaScript阅读库。
-  - [jsPDF](https://github.com/MrRio/jsPDF) - 使用JavaScript生成PDF文件的库。
-  - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - 用于在浏览器和服务器上渲染PDF文件。
-  - [react-pdf](https://github.com/wojtekmaj/react-pdf) - 在React应用程序中轻松显示PDF，就像它们是图像一样。
-  - [@phuocng/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - 用于查看PDF文档的React组件。
-  - [@mikecousins/react-pdf](https://github.com/mikecousins/react-pdf-js) - 封装了PDF.js的React组件。
-  - [react-file-viewer](https://github.com/plangrid/react-file-viewer) - 可扩展的web文件查看器。
+  - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+  - [jsPDF](https://github.com/MrRio/jsPDF) - A library to generate PDFs in JavaScript.
+  - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - React renderer for creating PDF files on the browser and server.
+  - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. 4.6k
+  - [@phuocng/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document.
+  - [@mikecousins/react-pdf](https://github.com/mikecousins/react-pdf-js) - A React component to wrap PDF.js.
+  - [react-file-viewer](https://github.com/plangrid/react-file-viewer) - Extendable file viewer for web.
 
-- 演示/幻灯片
-  - [reveal.js](https://github.com/hakimel/reveal.js) - HTML展示框架。
-  - [impress.js](https://github.com/bartaz/impress.js) - 它是一个基于现代浏览器中CSS3 transforms和transitions的强大功能的展示框架。
-  - [deck.js](https://github.com/imakewebthings/deck.js) - 现代HTML演示文稿。
-  - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY展示的微框架。
-  - [shower](https://github.com/shower/shower) - Shower HTML演示引擎。
+- Presentation/PPT
+  - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
+  - [impress.js](https://github.com/bartaz/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+  - [deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations.
+  - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework.
+  - [shower](https://github.com/shower/shower) - Shower HTML presentation engine.
 
 ### Web Components
-*(你也许喜欢 [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*
+*(You might like [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*
 
-- [polymer](https://github.com/polymer/polymer) - Web Component 库。
-- [lit](https://github.com/lit/lit) - Lit是一个简易的用于构建快速、轻量的Web Components库。
-- [skatejs](https://github.com/skatejs/skatejs) - Skate 是基于 Web Components 标准的函数式响应式抽象，使您能够使用流行的视图库（如 React、Preact 和 LitHTML一样）编写小型、快速和可扩展的 Web 组件。
-- [x-tag](https://github.com/x-tag/core) - 现代浏览器自定义组件。
-- [slim.js](https://github.com/slimjs/slim.js) - Slim是一个用于Web Components开发的超快，原生和优雅的库。
+- [polymer](https://github.com/polymer/polymer) - Our original Web Component library.
+- [lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
+- [skatejs](https://github.com/skatejs/skatejs) - Skate is a functional reactive abstraction over the web component standards as a set of packages that enables you to write small, fast and scalable web components using popular view libraries such as React, Preact and LitHTML.
+- [x-tag](https://github.com/x-tag/core) - Custom Elements for Modern Browsers.
+- [slim.js](https://github.com/slimjs/slim.js) - Slim is an ultra fast, native and elegant library for Web Components development.
