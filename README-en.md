@@ -205,13 +205,15 @@ English | [简体中文](./README.md)
 
 ### Office
 
-- Excel
+- Excel/Spreadsheet
   - [sheetjs](https://github.com/SheetJS/sheetjs) - Spreadsheet Data Toolkit.
+  - [handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue.
   - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
   - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager.
   - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX parser/generator written in JavaScript with Node.js and browser support.
 
 - PDF
+  - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
   - [jsPDF](https://github.com/MrRio/jsPDF) - A library to generate PDFs in JavaScript.
   - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - React renderer for creating PDF files on the browser and server.
   - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. 4.6k
