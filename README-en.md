@@ -16,6 +16,7 @@ English | [简体中文](./README.md)
   - [Date & Time](#date--time)
   - [JavaScript Framework](#javascript-framework)
   - [Micro Frontend](#micro-frontend)
+  - [Canvas](#canvas)
   - [WebGL](#webgl)
   - [Animation](#animation)
   - [Data Visualization](#data-visualization)
@@ -103,6 +104,10 @@ English | [简体中文](./README.md)
 - [single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends.
 - [emp](https://github.com/efoxTeam/emp) - EMP Micro FE Base on webpack 5 & module federation.
 - [piral](https://github.com/smapiot/piral) - Framework for next generation web apps using microfrontends.
+
+### Canvas
+
+- [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 
 ### WebGL
 
