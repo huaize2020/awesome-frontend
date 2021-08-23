@@ -16,6 +16,7 @@
   - [日期 和 时间](#日期-和-时间)
   - [JavaScript框架](#javascript框架)
   - [微前端](#微前端)
+  - [Canvas](#canvas)
   - [WebGL](#webgl)
   - [动画](#动画)
   - [数据可视化](#数据可视化)
@@ -102,6 +103,10 @@
 - [single-spa](https://github.com/single-spa/single-spa) - 简单微前端的路由器。
 - [emp](https://github.com/efoxTeam/emp) - 这是一个面向未来的，基于Webpack5 Module Federation搭建的微前端解决方案。
 - [piral](https://github.com/smapiot/piral) - 使用微前端的下一代 Web 应用程序框架。
+
+### Canvas
+
+- [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas 库，SVG-to-Canvas（和 canvas-to-SVG）解析器。
 
 ### WebGL
 
