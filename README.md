@@ -19,6 +19,8 @@
   - [数学运算](#数学运算)
   - [日期 和 时间](#日期-和-时间)
   - [JavaScript框架](#javascript框架)
+  - [表单相关](#表单相关)
+    - [上传](#上传)
   - [微前端](#微前端)
   - [Canvas](#canvas)
   - [WebGL](#webgl)
@@ -100,6 +102,12 @@
 - [svelte](https://github.com/sveltejs/svelte) - Svelte 是一种全新的构建用户界面的方法，增强的Web应用程序。 ![](https://img.shields.io/github/stars/sveltejs/svelte.svg?style=social&label=Star)
 - [preact](https://github.com/preactjs/preact) - Preact 是 React 的轻量化替代方案，仅有 3KB。并且提供了相同的 ES6 API，还具有组件和 Virtual DOM。 ![](https://img.shields.io/github/stars/preactjs/preact.svg?style=social&label=Star)
 - [petite-vue](https://github.com/vuejs/petite-vue) - Vue子集，优化渐进增强，仅 5kb。 ![](https://img.shields.io/github/stars/vuejs/petite-vue.svg?style=social&label=Star)
+
+### 表单相关
+
+#### 上传
+
+- [uppy](https://github.com/transloadit/uppy) - Uppy 是一款时尚的模块化 JavaScript 文件上传器，可与任何应用程序无缝集成。 它快速、易于使用，让您可以考虑比搭建文件上传器更重要的问题。
 
 ### 微前端
 
