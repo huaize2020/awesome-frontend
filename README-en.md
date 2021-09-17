@@ -20,6 +20,8 @@ English | [简体中文](./README.md)
   - [Math](#math)
   - [Date & Time](#date--time)
   - [JavaScript Framework](#javascript-framework)
+  - [Form](#form)
+    - [Upload](#upload)
   - [Micro Frontend](#micro-frontend)
   - [Canvas](#canvas)
   - [WebGL](#webgl)
@@ -102,6 +104,12 @@ English | [简体中文](./README.md)
 - [svelte](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications, Cybernetically enhanced web apps. ![](https://img.shields.io/github/stars/sveltejs/svelte.svg?style=social&label=Star)
 - [preact](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. ![](https://img.shields.io/github/stars/preactjs/preact.svg?style=social&label=Star)
 - [petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement. ![](https://img.shields.io/github/stars/vuejs/petite-vue.svg?style=social&label=Star)
+
+### Form
+
+#### Upload
+
+- [uppy](https://github.com/transloadit/uppy) - Uppy is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 
 ### Micro Frontend
 
