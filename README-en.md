@@ -109,7 +109,10 @@ English | [简体中文](./README.md)
 
 #### Upload
 
-- [uppy](https://github.com/transloadit/uppy) - Uppy is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
+- [uppy](https://github.com/transloadit/uppy) - Uppy is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader. ![](https://img.shields.io/github/stars/transloadit/uppy.svg?style=social&label=Star)
+- [dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars. ![](https://img.shields.io/github/stars/dropzone/dropzone.svg?style=social&label=Star)
+- [webuploader](https://github.com/fex-team/webuploader) - It's a new file uploader solution! ![](https://img.shields.io/github/stars/fex-team/webuploader.svg?style=social&label=Star)
+- [plupload](https://github.com/moxiecode/plupload) - Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight. ![](https://img.shields.io/github/stars/moxiecode/plupload.svg?style=social&label=Star)
 
 ### Micro Frontend
 
