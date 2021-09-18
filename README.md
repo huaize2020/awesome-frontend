@@ -107,7 +107,10 @@
 
 #### 上传
 
-- [uppy](https://github.com/transloadit/uppy) - Uppy 是一款时尚的模块化 JavaScript 文件上传器，可与任何应用程序无缝集成。 它快速、易于使用，让您可以考虑比搭建文件上传器更重要的问题。
+- [uppy](https://github.com/transloadit/uppy) - Uppy 是一款时尚的模块化 JavaScript 文件上传器，可与任何应用程序无缝集成。 它快速、易于使用，让您可以考虑比搭建文件上传器更重要的问题。 ![](https://img.shields.io/github/stars/transloadit/uppy.svg?style=social&label=Star)
+- [dropzone](https://github.com/dropzone/dropzone) - Dropzone 是一个易于使用的拖放库。 它支持图像预览并显示漂亮的进度条。 ![](https://img.shields.io/github/stars/dropzone/dropzone.svg?style=social&label=Star)
+- [webuploader](https://github.com/fex-team/webuploader) - WebUploader是一个简单的以HTML5为主，FLASH为辅的现代文件上传组件。 ![](https://img.shields.io/github/stars/fex-team/webuploader.svg?style=social&label=Star)
+- [plupload](https://github.com/moxiecode/plupload) - Plupload 是用于构建文件上传器的 JavaScript API。 它支持多文件选择、文件过滤、分块上传、客户端图像缩小，并且在必要时可以回退到替代运行时，如 Flash 和 Silverlight。 ![](https://img.shields.io/github/stars/moxiecode/plupload.svg?style=social&label=Star)
 
 ### 微前端
 
