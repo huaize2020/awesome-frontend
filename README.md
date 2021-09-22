@@ -6,6 +6,7 @@
 > - [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)
 > - [awesome-koa](https://github.com/huaize2020/awesome-koa)
 > - [awesome-egg](https://github.com/huaize2020/awesome-egg)
+> - [awesome-react](https://github.com/huaize2020/awesome-react)
 
 ## 目录
 
