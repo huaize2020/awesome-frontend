@@ -6,6 +6,8 @@ English | [简体中文](./README.md)
 > - [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)
 > - [awesome-koa](https://github.com/huaize2020/awesome-koa)
 > - [awesome-egg](https://github.com/huaize2020/awesome-egg)
+> - [awesome-react](https://github.com/huaize2020/awesome-react)
+
 
 
 ## Table of contents
