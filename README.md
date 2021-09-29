@@ -98,7 +98,7 @@
 ### JavaScript框架
 
 - [vue](https://github.com/vuejs/vue) - Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式框架。 ![](https://img.shields.io/github/stars/vuejs/vue.svg?style=social&label=Star)
-- [react](https://github.com/facebook/react) - 用于构建用户界面的 JavaScript 库。 ![](https://img.shields.io/github/stars/facebook/react.svg?style=social&label=Star)
+- [react](https://github.com/facebook/react) - 用于构建用户界面的 JavaScript 库。 ![](https://img.shields.io/github/stars/facebook/react.svg?style=social&label=Star) *(你也许会喜欢 [awesome-react](https://github.com/huaize2020/awesome-react))*
 - [angular](https://github.com/angular/angular) - 现代 Web 开发平台。 ![](https://img.shields.io/github/stars/angular/angular.svg?style=social&label=Star)
 - [svelte](https://github.com/sveltejs/svelte) - Svelte 是一种全新的构建用户界面的方法，增强的Web应用程序。 ![](https://img.shields.io/github/stars/sveltejs/svelte.svg?style=social&label=Star)
 - [preact](https://github.com/preactjs/preact) - Preact 是 React 的轻量化替代方案，仅有 3KB。并且提供了相同的 ES6 API，还具有组件和 Virtual DOM。 ![](https://img.shields.io/github/stars/preactjs/preact.svg?style=social&label=Star)
@@ -123,6 +123,7 @@
 ### Canvas
 
 - [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas 库，SVG-to-Canvas（和 canvas-to-SVG）解析器。 ![](https://img.shields.io/github/stars/fabricjs/fabric.js.svg?style=social&label=Star)
+- [konva](https://github.com/konvajs/konva) - Konva.js是一个 HTML5 Canvas JavaScript 框架，它通过为桌面和移动应用程序启用画布交互来扩展2d上下文。![](https://img.shields.io/github/stars/konvajs/konva.js.svg?style=social&label=Star)
 
 ### WebGL
 
@@ -135,12 +136,15 @@
 
 - [anime.js](https://github.com/juliangarnier/anime) - JavaScript 动画引擎。 ![](https://img.shields.io/github/stars/juliangarnier/anime.svg?style=social&label=Star)
 - [lottie-web](https://github.com/airbnb/lottie-web) - 在Web、Android和iOS以及React Native上渲染After Effects动画。 ![](https://img.shields.io/github/stars/airbnb/lottie-web.svg?style=social&label=Star)
+- [velocity](https://github.com/julianshapiro/velocity) - Velocity是一个简单易用、高性能、功能丰富的轻量级JS动画库。它能和 jQuery 完美协作，并和$.animate()有相同的 API，但它不依赖jQuery，可单独使用。 ![](https://img.shields.io/github/stars/julianshapiro/velocity.svg?style=social&label=Star)
 
 ### 数据可视化
 
+*你也许会喜欢 [awesome-react](https://github.com/huaize2020/awesome-react#%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)数据可视化*
+
 - 引擎
   - [D3.js](https://github.com/d3/d3) - 一个可以基于数据来操作文档的 JavaScript 库。 *(你也许会喜欢 [awesome-d3](https://github.com/wbkd/awesome-d3))* ![](https://img.shields.io/github/stars/d3/d3.svg?style=social&label=Star)
-    - [vx](https://github.com/hshoff/vx) - react + d3 = vx | 可视化组件。 ![](https://img.shields.io/github/stars/hshoff/vx.svg?style=social&label=Star)
+    - [visx](https://github.com/airbnb/visx) - 🐯 visx | 可视化组件。 ![](https://img.shields.io/github/stars/hshoff/vx.svg?style=social&label=Star)
   - [Raphaël](http://raphaeljs.com/) - Raphaël 是一个小型 JavaScript 库，它可以简化您在网站上操作矢量图形的工作。
   - [zrender](https://github.com/ecomfe/zrender) - 2d 绘图的轻量级图形库。 ![](https://img.shields.io/github/stars/ecomfe/zrender.svg?style=social&label=Star)
   - [g](https://github.com/antvis/g) - 强大的渲染引擎，为 G2 和 G6 提供 Canvas 和 SVG 绘制。 ![](https://img.shields.io/github/stars/antvis/g.svg?style=social&label=Star)
