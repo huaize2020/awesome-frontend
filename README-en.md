@@ -101,7 +101,7 @@ English | [简体中文](./README.md)
 ### JavaScript Framework
 
 - [vue](https://github.com/vuejs/vue) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. ![](https://img.shields.io/github/stars/vuejs/vue.svg?style=social&label=Star)
-- [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. ![](https://img.shields.io/github/stars/facebook/react.svg?style=social&label=Star)
+- [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. ![](https://img.shields.io/github/stars/facebook/react.svg?style=social&label=Star) *(You might like [awesome-react](https://github.com/huaize2020/awesome-react))*
 - [angular](https://github.com/angular/angular) - The modern web developer’s platform. ![](https://img.shields.io/github/stars/angular/angular.svg?style=social&label=Star)
 - [svelte](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications, Cybernetically enhanced web apps. ![](https://img.shields.io/github/stars/sveltejs/svelte.svg?style=social&label=Star)
 - [preact](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. ![](https://img.shields.io/github/stars/preactjs/preact.svg?style=social&label=Star)
@@ -126,6 +126,7 @@ English | [简体中文](./README.md)
 ### Canvas
 
 - [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser. ![](https://img.shields.io/github/stars/fabricjs/fabric.js.svg?style=social&label=Star)
+- [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. ![](https://img.shields.io/github/stars/konvajs/konva.js.svg?style=social&label=Star)
 
 ### WebGL
 
@@ -138,12 +139,15 @@ English | [简体中文](./README.md)
 
 - [anime.js](https://github.com/juliangarnier/anime) - JavaScript animation engine. ![](https://img.shields.io/github/stars/juliangarnier/anime.svg?style=social&label=Star)
 - [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. ![](https://img.shields.io/github/stars/airbnb/lottie-web.svg?style=social&label=Star)
+- [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation. ![](https://img.shields.io/github/stars/julianshapiro/velocity.svg?style=social&label=Star)
 
 ### Data Visualization
 
+*You might like [awesome-react](https://github.com/huaize2020/awesome-react#%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96) data visualization*
+
 - Engine
   - [D3.js](https://github.com/d3/d3) - A JavaScript library for manipulating documents based on data. *(You might like [awesome-d3](https://github.com/wbkd/awesome-d3))* ![](https://img.shields.io/github/stars/d3/d3.svg?style=social&label=Star)
-    - [vx](https://github.com/hshoff/vx) - react + d3 = vx | visualization components. ![](https://img.shields.io/github/stars/hshoff/vx.svg?style=social&label=Star)
+    - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components ![](https://img.shields.io/github/stars/airbnb/visx.svg?style=social&label=Star)
   - [Raphaël](http://raphaeljs.com/) - Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
   - [zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts. ![](https://img.shields.io/github/stars/ecomfe/zrender.svg?style=social&label=Star)
   - [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6. ![](https://img.shields.io/github/stars/antvis/g.svg?style=social&label=Star)
