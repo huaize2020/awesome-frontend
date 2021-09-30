@@ -26,6 +26,7 @@
   - [Canvas](#canvas)
   - [WebGL](#webgl)
   - [动画](#动画)
+    - [视觉差](#视觉差)
   - [数据可视化](#数据可视化)
   - [游戏](#游戏)
   - [代码查看/代码高亮](#代码查看代码高亮)
@@ -136,7 +137,16 @@
 
 - [anime.js](https://github.com/juliangarnier/anime) - JavaScript 动画引擎。 ![](https://img.shields.io/github/stars/juliangarnier/anime.svg?style=social&label=Star)
 - [lottie-web](https://github.com/airbnb/lottie-web) - 在Web、Android和iOS以及React Native上渲染After Effects动画。 ![](https://img.shields.io/github/stars/airbnb/lottie-web.svg?style=social&label=Star)
+- [mojs](https://github.com/mojs/mojs) - 用于Web的动态图形工具。 ![](https://img.shields.io/github/stars/mojs/mojs.svg?style=social&label=Star)
 - [velocity](https://github.com/julianshapiro/velocity) - Velocity是一个简单易用、高性能、功能丰富的轻量级JS动画库。它能和 jQuery 完美协作，并和$.animate()有相同的 API，但它不依赖jQuery，可单独使用。 ![](https://img.shields.io/github/stars/julianshapiro/velocity.svg?style=social&label=Star)
+- [svg.js](https://github.com/svgdotjs/svg.js) - 用于操作和使SVG动画的轻量级库。 ![](https://img.shields.io/github/stars/svgdotjs/svg.js.svg?style=social&label=Star)
+- [dynamics.js](https://github.com/michaelvillar/dynamics.js) - 创建基于物理的动画。 ![](https://img.shields.io/github/stars/michaelvillar/dynamics.js.svg?style=social&label=Star)
+- [animsition](https://github.com/blivesta/animsition) - 一个简易的jQuery插件用于CSS页面切换过渡效果 ![](https://img.shields.io/github/stars/blivesta/animsition.svg?style=social&label=Star)
+
+#### 视觉差
+
+- [parallax](https://github.com/wagerfield/parallax) - 对智能设备的方向做出响应的视觉差引擎。 ![](https://img.shields.io/github/stars/wagerfield/parallax.svg?style=social&label=Star)
+- [rellax](https://github.com/dixonandmoe/rellax) - 轻量、原生Javascript的视觉差库。 ![](https://img.shields.io/github/stars/dixonandmoe/rellax.svg?style=social&label=Star)
 
 ### 数据可视化
 
