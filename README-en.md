@@ -28,6 +28,7 @@ English | [简体中文](./README.md)
   - [Canvas](#canvas)
   - [WebGL](#webgl)
   - [Animation](#animation)
+    - [Parallax](#parallax)
   - [Data Visualization](#data-visualization)
   - [Game](#game)
   - [Code View/Code Highlight](#code-viewcode-highlight)
@@ -139,7 +140,16 @@ English | [简体中文](./README.md)
 
 - [anime.js](https://github.com/juliangarnier/anime) - JavaScript animation engine. ![](https://img.shields.io/github/stars/juliangarnier/anime.svg?style=social&label=Star)
 - [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. ![](https://img.shields.io/github/stars/airbnb/lottie-web.svg?style=social&label=Star)
+- [mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web. ![](https://img.shields.io/github/stars/mojs/mojs.svg?style=social&label=Star)
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation. ![](https://img.shields.io/github/stars/julianshapiro/velocity.svg?style=social&label=Star)
+- [svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG. ![](https://img.shields.io/github/stars/svgdotjs/svg.js.svg?style=social&label=Star)
+- [dynamics.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based animations. ![](https://img.shields.io/github/stars/michaelvillar/dynamics.js.svg?style=social&label=Star)
+- [animsition](https://github.com/blivesta/animsition) - A simple and easy jQuery plugin for CSS animated page transitions. ![](https://img.shields.io/github/stars/blivesta/animsition.svg?style=social&label=Star)
+
+#### Parallax
+
+- [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device. ![](https://img.shields.io/github/stars/wagerfield/parallax.svg?style=social&label=Star)
+- [rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library. ![](https://img.shields.io/github/stars/dixonandmoe/rellax.svg?style=social&label=Star)
 
 ### Data Visualization
 
