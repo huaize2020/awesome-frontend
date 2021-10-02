@@ -120,6 +120,7 @@
 - [single-spa](https://github.com/single-spa/single-spa) - 简单微前端的路由器。 ![](https://img.shields.io/github/stars/single-spa/single-spa.svg?style=social&label=Star)
 - [emp](https://github.com/efoxTeam/emp) - 这是一个面向未来的，基于Webpack5 Module Federation搭建的微前端解决方案。 ![](https://img.shields.io/github/stars/efoxTeam/emp.svg?style=social&label=Star)
 - [piral](https://github.com/smapiot/piral) - 使用微前端的下一代 Web 应用程序框架。 ![](https://img.shields.io/github/stars/smapiot/piral.svg?style=social&label=Star)
+- [garfish](https://github.com/modern-js-dev/garfish) - 一个功能强大的微前端框架。🚚 ![](https://img.shields.io/github/stars/modern-js-dev/garfish.svg?style=social&label=Star)
 
 ### Canvas
 
