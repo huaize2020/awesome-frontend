@@ -8,8 +8,6 @@ English | [简体中文](./README.md)
 > - [awesome-egg](https://github.com/huaize2020/awesome-egg)
 > - [awesome-react](https://github.com/huaize2020/awesome-react)
 
-
-
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
@@ -123,6 +121,7 @@ English | [简体中文](./README.md)
 - [single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends. ![](https://img.shields.io/github/stars/single-spa/single-spa.svg?style=social&label=Star)
 - [emp](https://github.com/efoxTeam/emp) - EMP Micro FE Base on webpack 5 & module federation. ![](https://img.shields.io/github/stars/efoxTeam/emp.svg?style=social&label=Star)
 - [piral](https://github.com/smapiot/piral) - Framework for next generation web apps using microfrontends. ![](https://img.shields.io/github/stars/smapiot/piral.svg?style=social&label=Star)
+- [garfish](https://github.com/modern-js-dev/garfish) - A powerful micro front-end framework 🚚. ![](https://img.shields.io/github/stars/modern-js-dev/garfish.svg?style=social&label=Star)
 
 ### Canvas
 
