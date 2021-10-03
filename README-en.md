@@ -144,6 +144,7 @@ English | [简体中文](./README.md)
 - [svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG. ![](https://img.shields.io/github/stars/svgdotjs/svg.js.svg?style=social&label=Star)
 - [dynamics.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based animations. ![](https://img.shields.io/github/stars/michaelvillar/dynamics.js.svg?style=social&label=Star)
 - [animsition](https://github.com/blivesta/animsition) - A simple and easy jQuery plugin for CSS animated page transitions. ![](https://img.shields.io/github/stars/blivesta/animsition.svg?style=social&label=Star)
+- [TweenJS](https://github.com/CreateJS/TweenJS) - A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries. ![](https://img.shields.io/github/stars/blivesta/animsition.svg?style=social&label=Star)
 
 #### Parallax
 
