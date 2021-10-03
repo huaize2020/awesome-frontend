@@ -143,6 +143,7 @@
 - [svg.js](https://github.com/svgdotjs/svg.js) - 用于操作和使SVG动画的轻量级库。 ![](https://img.shields.io/github/stars/svgdotjs/svg.js.svg?style=social&label=Star)
 - [dynamics.js](https://github.com/michaelvillar/dynamics.js) - 创建基于物理的动画。 ![](https://img.shields.io/github/stars/michaelvillar/dynamics.js.svg?style=social&label=Star)
 - [animsition](https://github.com/blivesta/animsition) - 一个简易的jQuery插件用于CSS页面切换过渡效果 ![](https://img.shields.io/github/stars/blivesta/animsition.svg?style=social&label=Star)
+- [TweenJS](https://github.com/CreateJS/TweenJS) - 一个简单但功能强大的tweening/animation库。CreateJS库套件的一部分。 ![](https://img.shields.io/github/stars/CreateJS/TweenJS.svg?style=social&label=Star)
 
 #### 视觉差
 
