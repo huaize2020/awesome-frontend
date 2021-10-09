@@ -29,6 +29,7 @@ English | [简体中文](./README.md)
     - [Parallax](#parallax)
   - [Data Visualization](#data-visualization)
   - [Game](#game)
+  - [Audio/Video](#audiovideo)
   - [Code View/Code Highlight](#code-viewcode-highlight)
   - [Editor](#editor)
   - [Office](#office)
@@ -208,6 +209,24 @@ English | [简体中文](./README.md)
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ![](https://img.shields.io/github/stars/BabylonJS/Babylon.js.svg?style=social&label=Star)
 - [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript. ![](https://img.shields.io/github/stars/cocos2d/cocos2d-html5.svg?style=social&label=Star)
 - [limejs](https://github.com/digitalfruit/limejs) - HTML5 game framework for web and iOS. ![](https://img.shields.io/github/stars/digitalfruit/limejs.svg?style=social&label=Star)
+
+### Audio/Video
+
+- [video.js](https://github.com/videojs/video.js) - HTML5 & Flash video player. ![](https://img.shields.io/github/stars/videojs/video.js.svg?style=social&label=Star)
+  - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs. ![](https://img.shields.io/github/stars/surmon-china/vue-video-player.svg?style=social&label=Star)
+- [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player ![](https://img.shields.io/github/stars/sampotts/plyr.svg?style=social&label=Star)
+- [hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE. ![](https://img.shields.io/github/stars/video-dev/hls.js.svg?style=social&label=Star)
+- [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser.  ![](https://img.shields.io/github/stars/captbaritone/webamp.svg?style=social&label=Star)
+- [mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 `<video>` and `<audio>` player. ![](https://img.shields.io/github/stars/mediaelement/mediaelement.svg?style=social&label=Star)
+- [clappr](https://github.com/clappr/clappr) - An extensible media player for the web. ![](https://img.shields.io/github/stars/clappr/clappr.svg?style=social&label=Star)
+- [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds. ![](https://img.shields.io/github/stars/davatron5000/FitVids.js.svg?style=social&label=Star)
+- [jPlayer](https://github.com/happyworm/jPlayer) - HTML5 Audio & Video for jQuery. ![](https://img.shields.io/github/stars/happyworm/jPlayer.svg?style=social&label=Star)
+- [accessible-html5-video-player](https://github.com/paypal/accessible-html5-video-player) - Accessible HTML5 Video Player. ![](https://img.shields.io/github/stars/paypal/accessible-html5-video-player.svg?style=social&label=Star)
+- [chimee](https://github.com/Chimeejs/chimee) - A video player framework aims to bring wonderful experience on browser.  ![](https://img.shields.io/github/stars/Chimeejs/chimee.svg?style=social&label=Star)
+- [BigVideo.js](https://github.com/dfcb/BigVideo.js) - The jQuery Plugin for Big Background Video. ![](https://img.shields.io/github/stars/dfcb/BigVideo.js.svg?style=social&label=Star)
+- [http-streaming](https://github.com/videojs/http-streaming) - HLS, DASH, and future HTTP streaming protocols library for video.js.  ![](https://img.shields.io/github/stars/videojs/http-streaming.svg?style=social&label=Star)
+- [buzz](https://github.com/jaysalvat/buzz) - A Javascript HTML5 Audio library. ![](https://img.shields.io/github/stars/jaysalvat/buzz.svg?style=social&label=Star)
+- [BigScreen](https://github.com/bdougherty/BigScreen) - A simple library for using the JavaScript Full Screen API. ![](https://img.shields.io/github/stars/bdougherty/BigScreen.svg?style=social&label=Star)
 
 ### Code View/Code Highlight
 
