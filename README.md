@@ -263,6 +263,7 @@
   - [deck.js](https://github.com/imakewebthings/deck.js) - 现代HTML演示文稿。 ![](https://img.shields.io/github/stars/imakewebthings/deck.js.svg?style=social&label=Star)
   - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY展示的微框架。 ![](https://img.shields.io/github/stars/markdalgleish/bespoke.js.svg?style=social&label=Star)
   - [shower](https://github.com/shower/shower) - Shower HTML演示引擎。 ![](https://img.shields.io/github/stars/shower/shower.svg?style=social&label=Star)
+  - [slidev](https://github.com/slidevjs/slidev) - 为开发者准备的演示幻灯片。 ![](https://img.shields.io/github/stars/slidevjs/slidev.svg?style=social&label=Star)
 
 ### Web Components
 *(你也许喜欢 [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*
@@ -272,3 +273,4 @@
 - [skatejs](https://github.com/skatejs/skatejs) - Skate 是基于 Web Components 标准的函数式响应式抽象，使您能够使用流行的视图库（如 React、Preact 和 LitHTML一样）编写小型、快速和可扩展的 Web 组件。 ![](https://img.shields.io/github/stars/skatejs/skatejs.svg?style=social&label=Star)
 - [x-tag](https://github.com/x-tag/core) - 现代浏览器自定义组件。 ![](https://img.shields.io/github/stars/x-tag/core.svg?style=social&label=Star)
 - [slim.js](https://github.com/slimjs/slim.js) - Slim是一个用于Web Components开发的超快，原生和优雅的库。 ![](https://img.shields.io/github/stars/slimjs/slim.js.svg?style=social&label=Star)
+- [stencil](https://github.com/ionic-team/stencil) - Stencil 是一个简单的编译器，用于生成 Web Components和静态站点生成的渐进 Web 应用程序(PWA)。 ![](https://img.shields.io/github/stars/ionic-team/stencil.svg?style=social&label=Star)

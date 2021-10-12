@@ -283,6 +283,7 @@ English | [简体中文](./README.md)
   - [deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations. ![](https://img.shields.io/github/stars/imakewebthings/deck.js.svg?style=social&label=Star)
   - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework. ![](https://img.shields.io/github/stars/markdalgleish/bespoke.js.svg?style=social&label=Star)
   - [shower](https://github.com/shower/shower) - Shower HTML presentation engine. ![](https://img.shields.io/github/stars/shower/shower.svg?style=social&label=Star)
+  - [slidev](https://github.com/slidevjs/slidev) - Presentation slides for developers. ![](https://img.shields.io/github/stars/slidevjs/slidev.svg?style=social&label=Star)
 
 ### Web Components
 *(You might like [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*
@@ -292,3 +293,4 @@ English | [简体中文](./README.md)
 - [skatejs](https://github.com/skatejs/skatejs) - Skate is a functional reactive abstraction over the web component standards as a set of packages that enables you to write small, fast and scalable web components using popular view libraries such as React, Preact and LitHTML. ![](https://img.shields.io/github/stars/skatejs/skatejs.svg?style=social&label=Star)
 - [x-tag](https://github.com/x-tag/core) - Custom Elements for Modern Browsers. ![](https://img.shields.io/github/stars/x-tag/core.svg?style=social&label=Star)
 - [slim.js](https://github.com/slimjs/slim.js) - Slim is an ultra fast, native and elegant library for Web Components development. ![](https://img.shields.io/github/stars/slimjs/slim.js.svg?style=social&label=Star)
+- [stencil](https://github.com/ionic-team/stencil) - Stencil is a simple compiler for generating Web Components and static site generated progressive web apps (PWA). ![](https://img.shields.io/github/stars/ionic-team/stencil.svg?style=social&label=Star)
