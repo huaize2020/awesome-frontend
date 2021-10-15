@@ -14,6 +14,8 @@
 - [官方文档](#官方文档)
   - [Web技术](#web技术)
   - [ECMAScript](#ecmascript)
+- [资源](#资源)
+  - [教程](#教程)
 - [GIT仓库](#git仓库)
   - [CSS](#css)
   - [数字](#数字)
@@ -50,6 +52,12 @@
 - [TC39 meeting agendas](https://github.com/tc39/agendas) - TC39 委员会历年的会议记录
 - [ECMAScript Daily](https://ecmascript-daily.github.io/) - TC39 委员会的动态
 - [The TC39 Process](https://tc39.es/process-document/) - 提案进入正式规格的流程
+
+## 资源
+
+### 教程
+
+- [all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这。 ![](https://img.shields.io/github/stars/KieSun/all-of-frontend.svg?style=social&label=Star)
 
 ## GIT仓库
 
@@ -260,17 +268,14 @@
 - 演示/幻灯片
   - [reveal.js](https://github.com/hakimel/reveal.js) - HTML展示框架。 ![](https://img.shields.io/github/stars/hakimel/reveal.js.svg?style=social&label=Star)
   - [impress.js](https://github.com/bartaz/impress.js) - 它是一个基于现代浏览器中CSS3 transforms和transitions的强大功能的展示框架。 ![](https://img.shields.io/github/stars/bartaz/impress.js.svg?style=social&label=Star)
-  - [slidev](https://github.com/slidevjs/slidev) - 为开发者准备的演示幻灯片。 ![](https://img.shields.io/github/stars/slidevjs/slidev.svg?style=social&label=Star)
   - [deck.js](https://github.com/imakewebthings/deck.js) - 现代HTML演示文稿。 ![](https://img.shields.io/github/stars/imakewebthings/deck.js.svg?style=social&label=Star)
   - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY展示的微框架。 ![](https://img.shields.io/github/stars/markdalgleish/bespoke.js.svg?style=social&label=Star)
   - [shower](https://github.com/shower/shower) - Shower HTML演示引擎。 ![](https://img.shields.io/github/stars/shower/shower.svg?style=social&label=Star)
-
 
 ### Web Components
 *(你也许喜欢 [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*
 
 - [polymer](https://github.com/polymer/polymer) - Web Component 库。 ![](https://img.shields.io/github/stars/polymer/polymer.svg?style=social&label=Star)
-- [stencil](https://github.com/ionic-team/stencil) - Stencil 是一个简单的编译器，用于生成 Web Components和静态站点生成的渐进 Web 应用程序(PWA)。 ![](https://img.shields.io/github/stars/ionic-team/stencil.svg?style=social&label=Star)
 - [lit](https://github.com/lit/lit) - Lit是一个简易的用于构建快速、轻量的Web Components库。 ![](https://img.shields.io/github/stars/lit/lit.svg?style=social&label=Star)
 - [skatejs](https://github.com/skatejs/skatejs) - Skate 是基于 Web Components 标准的函数式响应式抽象，使您能够使用流行的视图库（如 React、Preact 和 LitHTML一样）编写小型、快速和可扩展的 Web 组件。 ![](https://img.shields.io/github/stars/skatejs/skatejs.svg?style=social&label=Star)
 - [x-tag](https://github.com/x-tag/core) - 现代浏览器自定义组件。 ![](https://img.shields.io/github/stars/x-tag/core.svg?style=social&label=Star)
