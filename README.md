@@ -16,6 +16,7 @@
   - [ECMAScript](#ecmascript)
 - [资源](#资源)
   - [教程](#教程)
+  - [前沿技术](#前沿技术)
 - [GIT仓库](#git仓库)
   - [CSS](#css)
   - [数字](#数字)
@@ -61,6 +62,10 @@
 - [超详细的前端入门到进阶学习笔记](https://github.com/qianguyihao/Web) - 公众号「千古壹号」作者，超详细的前端入门到进阶学习笔记。 ![](https://img.shields.io/github/stars/qianguyihao/Web.svg?style=social&label=Star)
 - [all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这。 ![](https://img.shields.io/github/stars/KieSun/all-of-frontend.svg?style=social&label=Star)
 - [前端小课](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。 ![](https://img.shields.io/github/stars/lefex/FE.svg?style=social&label=Star)
+
+### 前沿技术
+
+- [前端精读周刊](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。 ![](https://img.shields.io/github/stars/ascoders/weekly.svg?style=social&label=Star)
 
 ## GIT仓库
 
