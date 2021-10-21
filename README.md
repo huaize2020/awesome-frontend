@@ -59,7 +59,7 @@
 ### 教程
 
 - [all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这。 ![](https://img.shields.io/github/stars/KieSun/all-of-frontend.svg?style=social&label=Star)
-
+- [前端小课](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。 ![](https://img.shields.io/github/stars/lefex/FE.svg?style=social&label=Star)
 
 ## GIT仓库
 
