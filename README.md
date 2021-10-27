@@ -27,7 +27,7 @@
   - [表单相关](#表单相关)
     - [上传](#上传)
   - [微前端](#微前端)
-  - [Canvas](#canvas)
+  - [Canvas/SVG](#canvassvg)
   - [WebGL](#webgl)
   - [动画](#动画)
     - [视觉差](#视觉差)
@@ -144,10 +144,11 @@
 - [piral](https://github.com/smapiot/piral) - 使用微前端的下一代 Web 应用程序框架。 ![](https://img.shields.io/github/stars/smapiot/piral.svg?style=social&label=Star)
 - [garfish](https://github.com/modern-js-dev/garfish) - 一个功能强大的微前端框架。🚚 ![](https://img.shields.io/github/stars/modern-js-dev/garfish.svg?style=social&label=Star)
 
-### Canvas
+### Canvas/SVG
 
 - [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas 库，SVG-to-Canvas（和 canvas-to-SVG）解析器。 ![](https://img.shields.io/github/stars/fabricjs/fabric.js.svg?style=social&label=Star)
-- [konva](https://github.com/konvajs/konva) - Konva.js是一个 HTML5 Canvas JavaScript 框架，它通过为桌面和移动应用程序启用画布交互来扩展2d上下文。![](https://img.shields.io/github/stars/konvajs/konva.js.svg?style=social&label=Star)
+- [rough](https://github.com/rough-stuff/rough) - 创建具有手绘、粗略外观的图形。 ![](https://img.shields.io/github/stars/rough-stuff/rough.svg?style=social&label=Star)
+- [konva](https://github.com/konvajs/konva) - Konva.js是一个 HTML5 Canvas JavaScript 框架，它通过为桌面和移动应用程序启用画布交互来扩展2d上下文。![](https://img.shields.io/github/stars/konvajs/konva.svg?style=social&label=Star)
 
 ### WebGL
 
@@ -264,6 +265,9 @@
   - [Editor.md](https://github.com/pandao/editor.md) - 开源可嵌入在线编辑器（组件）。 ![](https://img.shields.io/github/stars/pandao/editor.md.svg?style=social&label=Star)
   - [Markdown Plus](https://github.com/tylingsoft/markdown-plus) - 具有额外功能的 Markdown 编辑器。 ![](https://img.shields.io/github/stars/tylingsoft/markdown-plus.svg?style=social&label=Star)
   - [bytemd](https://github.com/bytedance/bytemd) - 一个用 Svelte 构建 (hackable) 的 Markdown 编辑器组件。 ![](https://img.shields.io/github/stars/bytedance/bytemd.svg?style=social&label=Star)
+
+- 图形绘制编辑器
+  - [DrawerJs](https://github.com/carstenschaefer/DrawerJs) - 可定制的所见即所得 HTML 画布编辑器。 ![](https://img.shields.io/github/stars/bytedance/bytemd.svg?style=social&label=Star)
 
 ### 办公软件
 

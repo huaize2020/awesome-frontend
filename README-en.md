@@ -24,7 +24,7 @@ English | [简体中文](./README.md)
   - [Form](#form)
     - [Upload](#upload)
   - [Micro Frontend](#micro-frontend)
-  - [Canvas](#canvas)
+  - [Canvas/SVG](#canvassvg)
   - [WebGL](#webgl)
   - [Animation](#animation)
     - [Parallax](#parallax)
@@ -131,10 +131,11 @@ English | [简体中文](./README.md)
 - [piral](https://github.com/smapiot/piral) - Framework for next generation web apps using microfrontends. ![](https://img.shields.io/github/stars/smapiot/piral.svg?style=social&label=Star)
 - [garfish](https://github.com/modern-js-dev/garfish) - A powerful micro front-end framework 🚚. ![](https://img.shields.io/github/stars/modern-js-dev/garfish.svg?style=social&label=Star)
 
-### Canvas
+### Canvas/SVG
 
 - [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser. ![](https://img.shields.io/github/stars/fabricjs/fabric.js.svg?style=social&label=Star)
-- [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. ![](https://img.shields.io/github/stars/konvajs/konva.js.svg?style=social&label=Star)
+- [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance. ![](https://img.shields.io/github/stars/rough-stuff/rough.svg?style=social&label=Star)
+- [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. ![](https://img.shields.io/github/stars/konvajs/konva.svg?style=social&label=Star)
 
 ### WebGL
 
@@ -269,6 +270,9 @@ English | [简体中文](./README.md)
   - [Editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). ![](https://img.shields.io/github/stars/pandao/editor.md.svg?style=social&label=Star)
   - [Markdown Plus](https://github.com/tylingsoft/markdown-plus) - Markdown editor with extra features. ![](https://img.shields.io/github/stars/tylingsoft/markdown-plus.svg?style=social&label=Star)
   - [bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component built with Svelte. ![](https://img.shields.io/github/stars/bytedance/bytemd.svg?style=social&label=Star)
+
+- Canvas Editor
+  - [DrawerJs](https://github.com/carstenschaefer/DrawerJs) - A customizable WYSIWYG HTML canvas editor. ![](https://img.shields.io/github/stars/bytedance/bytemd.svg?style=social&label=Star)
 
 ### Office
 
