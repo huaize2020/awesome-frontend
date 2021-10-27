@@ -241,12 +241,15 @@
   - [quill](https://github.com/quilljs/quill) - 为兼容性和可扩展性而构建的现代所见即所得(WYSIWYG)编辑器。 ![](https://img.shields.io/github/stars/quilljs/quill.svg?style=social&label=Star)
   - [slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于在浏览器中构建富文本编辑器。 ![](https://img.shields.io/github/stars/ianstormtaylor/slate.svg?style=social&label=Star)
   - [draft.js](https://github.com/facebook/draft-js) - Draft.js 是一个 JavaScript 富文本编辑器框架，为 React 构建并由不可变模型支持。 ![](https://img.shields.io/github/stars/facebook/draft-js.svg?style=social&label=Star)
+  - [editor.js](https://github.com/codex-team/editor.js) - 具有干净 JSON 输出的块式编辑器。 ![](https://img.shields.io/github/stars/codex-team/editor.js.svg?style=social&label=Star)
+  - [trix](https://github.com/basecamp/trix) - 用于日常写作的富文本编辑器。 ![](https://img.shields.io/github/stars/basecamp/trix.js.svg?style=social&label=Star)
   - [medium-editor](https://github.com/yabwe/medium-editor) - 从Medium.com 所见即所得编辑器 克隆 而出。使用 contenteditable API 实现富文本解决方案。 ![](https://img.shields.io/github/stars/yabwe/medium-editor.svg?style=social&label=Star)
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) - 轻量级web富文本框。 ![](https://img.shields.io/github/stars/wangeditor-team/wangEditor.svg?style=social&label=Star)
+  - [pell](https://github.com/jaredreich/pell) - 简单、小巧的 Web 所见即所得文本编辑器，无依赖项。 ![](https://img.shields.io/github/stars/jaredreich/pell.svg?style=social&label=Star)
   - [tinymce](https://github.com/tinymce/tinymce) - 用于富文本编辑的 JavaScript 库。 适用于 React、Vue 和 Angular。 ![](https://img.shields.io/github/stars/tinymce/tinymce.svg?style=social&label=Star)
   - [ckeditor4](https://github.com/ckeditor/ckeditor4) - 最好的企业级所见即所得编辑器。完全可定制的无数功能和插件。 ![](https://img.shields.io/github/stars/ckeditor/ckeditor4.svg?style=social&label=Star)
-  - [simditor](https://github.com/mycolorway/simditor) - 一个简单快速的所见即所得(WYSIWYG)编辑器。 ![](https://img.shields.io/github/stars/mycolorway/simditor.svg?style=social&label=Star)
   - [ckeditor5](https://github.com/ckeditor/ckeditor5) - 最好的企业级所见即所得编辑器。 完全可定制的无数功能和插件。 ![](https://img.shields.io/github/stars/ckeditor/ckeditor5.svg?style=social&label=Star)
+  - [simditor](https://github.com/mycolorway/simditor) - 一个简单快速的所见即所得(WYSIWYG)编辑器。 ![](https://img.shields.io/github/stars/mycolorway/simditor.svg?style=social&label=Star)
   - [substance](https://github.com/substance/substance) - 用于基于 Web 的内容编辑的 JavaScript 库。 ![](https://img.shields.io/github/stars/substance/substance.svg?style=social&label=Star)
   - [neditor](https://github.com/notadd/neditor) - 基于ueditor的更现代化的富文本编辑器，支持HTTPS。 ![](https://img.shields.io/github/stars/notadd/neditor.svg?style=social&label=Star)
 
@@ -257,6 +260,7 @@
 
 - Markdown编辑器
   - [stackedit](https://github.com/benweet/stackedit) - 浏览器端Markdown编辑器。 ![](https://img.shields.io/github/stars/benweet/stackedit.svg?style=social&label=Star)
+  - [TOAST UI Editor](https://github.com/nhn/tui.editor) - Markdown 所见即所得编辑器。 GFM 标准 + 图表和 UML 可扩展。 ![](https://img.shields.io/github/stars/nhn/tui.editor.svg?style=social&label=Star)
   - [Editor.md](https://github.com/pandao/editor.md) - 开源可嵌入在线编辑器（组件）。 ![](https://img.shields.io/github/stars/pandao/editor.md.svg?style=social&label=Star)
   - [Markdown Plus](https://github.com/tylingsoft/markdown-plus) - 具有额外功能的 Markdown 编辑器。 ![](https://img.shields.io/github/stars/tylingsoft/markdown-plus.svg?style=social&label=Star)
   - [bytemd](https://github.com/bytedance/bytemd) - 一个用 Svelte 构建 (hackable) 的 Markdown 编辑器组件。 ![](https://img.shields.io/github/stars/bytedance/bytemd.svg?style=social&label=Star)
