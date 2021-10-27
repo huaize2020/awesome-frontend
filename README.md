@@ -82,6 +82,7 @@
 ### 前沿技术
 
 - [前端精读周刊](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。 ![](https://img.shields.io/github/stars/ascoders/weekly.svg?style=social&label=Star)
+- [Web 技术周刊](https://www.yuque.com/awesome/fe_weekly) - 汇总平时看到的优秀文章，前端为主，兼含其它技术及少量产品、设计、管理内容。
 
 ## GIT仓库
 
