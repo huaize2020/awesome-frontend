@@ -19,6 +19,8 @@
   - [前沿技术](#前沿技术)
 - [GIT仓库](#git仓库)
   - [CSS](#css)
+    - [框架](#框架)
+    - [CSS动画](#css动画)
   - [数字](#数字)
   - [数学运算](#数学运算)
   - [日期 和 时间](#日期-和-时间)
@@ -32,10 +34,24 @@
   - [动画](#动画)
     - [视觉差](#视觉差)
   - [数据可视化](#数据可视化)
+    - [引擎](#引擎)
+    - [通用](#通用)
+    - [图表](#图表)
+    - [关系图](#关系图)
+    - [地图](#地图)
+    - [其他](#其他)
   - [游戏](#游戏)
   - [代码查看/代码高亮](#代码查看代码高亮)
   - [编辑器](#编辑器)
+    - [富文本编辑器框架](#富文本编辑器框架)
+    - [富文本编辑器](#富文本编辑器)
+    - [代码编辑器](#代码编辑器)
+    - [Markdown编辑器](#markdown编辑器)
+    - [图形绘制编辑器](#图形绘制编辑器)
   - [办公软件](#办公软件)
+    - [Excel/电子表格](#excel电子表格)
+    - [PDF](#pdf)
+    - [演示/幻灯片](#演示幻灯片)
   - [Web Components](#web-components)
 
 ## 官方文档
@@ -71,11 +87,11 @@
 
 ### CSS
 
-- 框架
+#### 框架
   - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - 一个功能类优先的 CSS 框架。 ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social&label=Star)
   - [bulma](https://github.com/jgthms/bulma) - 基于 Flexbox 的现代CSS框架。 ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social&label=Star)
 
-- 动画
+#### CSS动画
   - [animate.css](https://github.com/animate-css/animate.css) - 跨浏览器CSS动画库。简单易用。 ![](https://img.shields.io/github/stars/animate-css/animate.css.svg?style=social&label=Star)
   - [Hover.css](https://github.com/IanLunn/Hover) - 一个悬停效果的CSS3集合，可应用于链接、按钮、徽标、SVG、特色图像等。提供CSS、Sass等版本。 ![](https://img.shields.io/github/stars/IanLunn/Hover.svg?style=social&label=Star)
   - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - 令人愉快的、注重性能的纯 css 加载动画。 ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
@@ -177,21 +193,21 @@
 
 *你也许会喜欢 [awesome-react](https://github.com/huaize2020/awesome-react#%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)数据可视化*
 
-- 引擎
+#### 引擎
   - [D3.js](https://github.com/d3/d3) - 一个可以基于数据来操作文档的 JavaScript 库。 *(你也许会喜欢 [awesome-d3](https://github.com/wbkd/awesome-d3))* ![](https://img.shields.io/github/stars/d3/d3.svg?style=social&label=Star)
     - [visx](https://github.com/airbnb/visx) - 🐯 visx | 可视化组件。 ![](https://img.shields.io/github/stars/hshoff/vx.svg?style=social&label=Star)
   - [Raphaël](http://raphaeljs.com/) - Raphaël 是一个小型 JavaScript 库，它可以简化您在网站上操作矢量图形的工作。
   - [zrender](https://github.com/ecomfe/zrender) - 2d 绘图的轻量级图形库。 ![](https://img.shields.io/github/stars/ecomfe/zrender.svg?style=social&label=Star)
   - [g](https://github.com/antvis/g) - 强大的渲染引擎，为 G2 和 G6 提供 Canvas 和 SVG 绘制。 ![](https://img.shields.io/github/stars/antvis/g.svg?style=social&label=Star)
 
-- 通用
+#### 通用
   - [ECharts](https://github.com/apache/echarts) - 来自百度的强大图表库。 ![](https://img.shields.io/github/stars/apache/echarts.svg?style=social&label=Star)
     - [v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件。 ![](https://img.shields.io/github/stars/ElemeFE/v-charts.svg?style=social&label=Star)
     - [vue-echarts](https://github.com/ecomfe/vue-echarts) - 使用 Apache ECharts 5，同时支持 Vue.js 2/3。 ![](https://img.shields.io/github/stars/ecomfe/vue-echarts.svg?style=social&label=Star)
   - [plotly.js](https://github.com/plotly/plotly.js) - 开源 JavaScript 图形库。 ![](https://img.shields.io/github/stars/plotly/plotly.js.svg?style=social&label=Star)
   - [HighCharts](https://github.com/highcharts/highcharts) - 为您的 Web 项目轻松创建交互式图表。 ![](https://img.shields.io/github/stars/highcharts/highcharts.svg?style=social&label=Star)
 
-- 图表
+#### 图表
   - [Chart.js](https://github.com/chartjs/Chart.js) - 使用 `<canvas>` 标签创建 HTML5 图表。 ![](https://img.shields.io/github/stars/chartjs/Chart.js.svg?style=social&label=Star)
   - [charts](https://github.com/frappe/charts) - 简单、响应式、零依赖的现代 SVG 图表。 ![](https://img.shields.io/github/stars/frappe/charts.svg?style=social&label=Star)
   - [G2](https://github.com/antvis/g2) - JavaScript 中的图形语法。 ![](https://img.shields.io/github/stars/antvis/g2.svg?style=social&label=Star)
@@ -204,7 +220,7 @@
   - [flot](http://github.com/flot/flot) - 基于jQuery的优雅的JavaScript图表库。 ![](https://img.shields.io/github/stars/flot/flot.svg?style=social&label=Star)
   - [Peity](https://github.com/benpickles/peity) - 渐进式 svg 饼图、圆环图、条形图和折线图。 ![](https://img.shields.io/github/stars/benpickles/peity.svg?style=social&label=Star)
 
-- 关系图
+#### 关系图
   - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma 是一个专门用于关系图绘制的 JavaScript 库。 ![](https://img.shields.io/github/stars/jacomyal/sigma.js.svg?style=social&label=Star)
   - [G6](https://github.com/antvis/G6) - 便捷的关系数据可视化引擎与图分析工具。 ![](https://img.shields.io/github/stars/antvis/G6.svg?style=social&label=Star)
     - [graphin](https://github.com/antvis/graphin) - 基于 G6 封装的React图分析应用组件。 ![](https://img.shields.io/github/stars/antvis/graphin.svg?style=social&label=Star)
@@ -212,7 +228,7 @@
   - [Springy](https://github.com/dhotson/springy/) - 一个力导图布局算法。 ![](https://img.shields.io/github/stars/dhotson/springy.svg?style=social&label=Star)
   - [WebCola](https://github.com/tgdwyer/WebCola) - Javascript版约束图形布局。 ![](https://img.shields.io/github/stars/tgdwyer/WebCola.svg?style=social&label=Star)
 
-- 地图
+#### 地图
   - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet 是对移动端友好的开源领先的交互式地图库。 ![](https://img.shields.io/github/stars/Leaflet/Leaflet.svg?style=social&label=Star)
   - [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 支持的地理空间可视化层。 ![](https://img.shields.io/github/stars/visgl/deck.gl.svg?style=social&label=Star)
   - [OpenLayers](https://github.com/openlayers/openlayers) - 高性能、功能丰富的库，用于在 Web 上创建交互式地图。 ![](https://img.shields.io/github/stars/openlayers/openlayers.svg?style=social&label=Star)
@@ -220,7 +236,7 @@
   - [L7](https://github.com/antvis/L7) - 基于 WebGL 的开源大规模地理空间数据可视分析开发框架。 ![](https://img.shields.io/github/stars/antvis/L7.svg?style=social&label=Star)
   - [tangram](https://github.com/tangrams/tangram) - 用于创造性制图的WebGL地图绘制引擎。 ![](https://img.shields.io/github/stars/tangrams/tangram.svg?style=social&label=Star)
 
-- 其他
+#### 其他
   - [mermaid](https://github.com/mermaid-js/mermaid) - 以与 Markdown 类似的方式从文本生成图表和流程图。 ![](https://img.shields.io/github/stars/mermaid-js/mermaid.svg?style=social&label=Star)
   - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - 从图表表示的文本中绘制简单的 SVG 序列图。 ![](https://img.shields.io/github/stars/bramp/js-sequence-diagrams.svg?style=social&label=Star)
 
@@ -238,47 +254,53 @@
 
 ### 编辑器
 
-- 富文本编辑器
+#### 富文本编辑器框架
+
+- [slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于在浏览器中构建富文本编辑器。 ![](https://img.shields.io/github/stars/ianstormtaylor/slate.svg?style=social&label=Star)
+- [draft.js](https://github.com/facebook/draft-js) - Draft.js 是一个 JavaScript 富文本编辑器框架，为 React 构建并由不可变模型支持。 ![](https://img.shields.io/github/stars/facebook/draft-js.svg?style=social&label=Star)
+- [ckeditor5](https://github.com/ckeditor/ckeditor5) - 强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。 ![](https://img.shields.io/github/stars/ckeditor/ckeditor5.svg?style=social&label=Star)
+
+#### 富文本编辑器
   - [quill](https://github.com/quilljs/quill) - 为兼容性和可扩展性而构建的现代所见即所得(WYSIWYG)编辑器。 ![](https://img.shields.io/github/stars/quilljs/quill.svg?style=social&label=Star)
   - [slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于在浏览器中构建富文本编辑器。 ![](https://img.shields.io/github/stars/ianstormtaylor/slate.svg?style=social&label=Star)
   - [draft.js](https://github.com/facebook/draft-js) - Draft.js 是一个 JavaScript 富文本编辑器框架，为 React 构建并由不可变模型支持。 ![](https://img.shields.io/github/stars/facebook/draft-js.svg?style=social&label=Star)
   - [editor.js](https://github.com/codex-team/editor.js) - 具有干净 JSON 输出的块式编辑器。 ![](https://img.shields.io/github/stars/codex-team/editor.js.svg?style=social&label=Star)
-  - [trix](https://github.com/basecamp/trix) - 用于日常写作的富文本编辑器。 ![](https://img.shields.io/github/stars/basecamp/trix.js.svg?style=social&label=Star)
+  - [trix](https://github.com/basecamp/trix) - 用于日常写作的富文本编辑器。 ![](https://img.shields.io/github/stars/basecamp/trix.svg?style=social&label=Star)
   - [medium-editor](https://github.com/yabwe/medium-editor) - 从Medium.com 所见即所得编辑器 克隆 而出。使用 contenteditable API 实现富文本解决方案。 ![](https://img.shields.io/github/stars/yabwe/medium-editor.svg?style=social&label=Star)
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) - 轻量级web富文本框。 ![](https://img.shields.io/github/stars/wangeditor-team/wangEditor.svg?style=social&label=Star)
   - [pell](https://github.com/jaredreich/pell) - 简单、小巧的 Web 所见即所得文本编辑器，无依赖项。 ![](https://img.shields.io/github/stars/jaredreich/pell.svg?style=social&label=Star)
   - [tinymce](https://github.com/tinymce/tinymce) - 用于富文本编辑的 JavaScript 库。 适用于 React、Vue 和 Angular。 ![](https://img.shields.io/github/stars/tinymce/tinymce.svg?style=social&label=Star)
   - [ckeditor4](https://github.com/ckeditor/ckeditor4) - 最好的企业级所见即所得编辑器。完全可定制的无数功能和插件。 ![](https://img.shields.io/github/stars/ckeditor/ckeditor4.svg?style=social&label=Star)
-  - [ckeditor5](https://github.com/ckeditor/ckeditor5) - 最好的企业级所见即所得编辑器。 完全可定制的无数功能和插件。 ![](https://img.shields.io/github/stars/ckeditor/ckeditor5.svg?style=social&label=Star)
+  - [ckeditor5](https://github.com/ckeditor/ckeditor5) - 强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。 ![](https://img.shields.io/github/stars/ckeditor/ckeditor5.svg?style=social&label=Star)
   - [simditor](https://github.com/mycolorway/simditor) - 一个简单快速的所见即所得(WYSIWYG)编辑器。 ![](https://img.shields.io/github/stars/mycolorway/simditor.svg?style=social&label=Star)
   - [substance](https://github.com/substance/substance) - 用于基于 Web 的内容编辑的 JavaScript 库。 ![](https://img.shields.io/github/stars/substance/substance.svg?style=social&label=Star)
   - [neditor](https://github.com/notadd/neditor) - 基于ueditor的更现代化的富文本编辑器，支持HTTPS。 ![](https://img.shields.io/github/stars/notadd/neditor.svg?style=social&label=Star)
 
-- 代码编辑器
+#### 代码编辑器
   - [monaco-editor](https://github.com/Microsoft/monaco-editor) - 基于浏览器端代码编辑器。 ![](https://img.shields.io/github/stars/Microsoft/monaco-editor.svg?style=social&label=Star)
   - [ace](https://github.com/ajaxorg/ace) - Ace是使用JavaScript编写的独立代码编辑器。 ![](https://img.shields.io/github/stars/ajaxorg/ace.svg?style=social&label=Star)
   - [CodeMirror](https://github.com/codemirror/CodeMirror) - 浏览器端代码编辑器。 ![](https://img.shields.io/github/stars/codemirror/CodeMirror.svg?style=social&label=Star)
 
-- Markdown编辑器
+#### Markdown编辑器
   - [stackedit](https://github.com/benweet/stackedit) - 浏览器端Markdown编辑器。 ![](https://img.shields.io/github/stars/benweet/stackedit.svg?style=social&label=Star)
   - [TOAST UI Editor](https://github.com/nhn/tui.editor) - Markdown 所见即所得编辑器。 GFM 标准 + 图表和 UML 可扩展。 ![](https://img.shields.io/github/stars/nhn/tui.editor.svg?style=social&label=Star)
   - [Editor.md](https://github.com/pandao/editor.md) - 开源可嵌入在线编辑器（组件）。 ![](https://img.shields.io/github/stars/pandao/editor.md.svg?style=social&label=Star)
   - [Markdown Plus](https://github.com/tylingsoft/markdown-plus) - 具有额外功能的 Markdown 编辑器。 ![](https://img.shields.io/github/stars/tylingsoft/markdown-plus.svg?style=social&label=Star)
   - [bytemd](https://github.com/bytedance/bytemd) - 一个用 Svelte 构建 (hackable) 的 Markdown 编辑器组件。 ![](https://img.shields.io/github/stars/bytedance/bytemd.svg?style=social&label=Star)
 
-- 图形绘制编辑器
+#### 图形绘制编辑器
   - [DrawerJs](https://github.com/carstenschaefer/DrawerJs) - 可定制的所见即所得 HTML 画布编辑器。 ![](https://img.shields.io/github/stars/bytedance/bytemd.svg?style=social&label=Star)
 
 ### 办公软件
 
-- Excel/电子表格
+#### Excel/电子表格
   - [sheetjs](https://github.com/SheetJS/sheetjs) - 电子表格数据工具箱。 ![](https://img.shields.io/github/stars/SheetJS/sheetjs.svg?style=social&label=Star)
   - [handsontable](https://github.com/handsontable/handsontable) - 带有电子表格外观的 JavaScript 数据网格。 适用于 React、Angular 和 Vue。 ![](https://img.shields.io/github/stars/handsontable/handsontable.svg?style=social&label=Star)
   - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet，一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。 ![](https://img.shields.io/github/stars/mengshukeji/Luckysheet.svg?style=social&label=Star)
   - [exceljs](https://github.com/exceljs/exceljs) - Excel工作表管理工具。 ![](https://img.shields.io/github/stars/exceljs/exceljs.svg?style=social&label=Star)
   - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX生成和解析工具，可运行在Node和浏览器。 ![](https://img.shields.io/github/stars/dtjohnson/xlsx-populate.svg?style=social&label=Star)
 
-- PDF
+#### PDF
   - [pdf.js](https://github.com/mozilla/pdf.js) - PDF JavaScript阅读库。 ![](https://img.shields.io/github/stars/mozilla/pdf.js.svg?style=social&label=Star)
   - [jsPDF](https://github.com/MrRio/jsPDF) - 使用JavaScript生成PDF文件的库。 ![](https://img.shields.io/github/stars/MrRio/jsPDF.svg?style=social&label=Star)
   - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - 用于在浏览器和服务器上渲染PDF文件。 ![](https://img.shields.io/github/stars/diegomura/react-pdf.svg?style=social&label=Star)
@@ -287,7 +309,7 @@
   - [@mikecousins/react-pdf](https://github.com/mikecousins/react-pdf-js) - 封装了PDF.js的React组件。 ![](https://img.shields.io/github/stars/mikecousins/react-pdf-js.svg?style=social&label=Star)
   - [react-file-viewer](https://github.com/plangrid/react-file-viewer) - 可扩展的web文件查看器。 ![](https://img.shields.io/github/stars/plangrid/react-file-viewer.svg?style=social&label=Star)
 
-- 演示/幻灯片
+#### 演示/幻灯片
   - [reveal.js](https://github.com/hakimel/reveal.js) - HTML展示框架。 ![](https://img.shields.io/github/stars/hakimel/reveal.js.svg?style=social&label=Star)
   - [impress.js](https://github.com/bartaz/impress.js) - 它是一个基于现代浏览器中CSS3 transforms和transitions的强大功能的展示框架。 ![](https://img.shields.io/github/stars/bartaz/impress.js.svg?style=social&label=Star)
   - [slidev](https://github.com/slidevjs/slidev) - 为开发者准备的演示幻灯片。 ![](https://img.shields.io/github/stars/slidevjs/slidev.svg?style=social&label=Star)
