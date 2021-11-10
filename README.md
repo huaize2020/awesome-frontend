@@ -97,6 +97,7 @@
   - [animate.css](https://github.com/animate-css/animate.css) - 跨浏览器CSS动画库。简单易用。 ![](https://img.shields.io/github/stars/animate-css/animate.css.svg?style=social&label=Star)
   - [Hover.css](https://github.com/IanLunn/Hover) - 一个悬停效果的CSS3集合，可应用于链接、按钮、徽标、SVG、特色图像等。提供CSS、Sass等版本。 ![](https://img.shields.io/github/stars/IanLunn/Hover.svg?style=social&label=Star)
   - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - 令人愉快的、注重性能的纯 css 加载动画。 ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
+  - [csshake](https://github.com/elrumordelaluz/csshake) - 让你的 DOM 颤抖起来。 ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
 
 ### 数字
 
@@ -312,6 +313,7 @@
   - [react-file-viewer](https://github.com/plangrid/react-file-viewer) - 可扩展的web文件查看器。 ![](https://img.shields.io/github/stars/plangrid/react-file-viewer.svg?style=social&label=Star)
 
 #### 演示/幻灯片
+
   - [reveal.js](https://github.com/hakimel/reveal.js) - HTML展示框架。 ![](https://img.shields.io/github/stars/hakimel/reveal.js.svg?style=social&label=Star)
   - [impress.js](https://github.com/bartaz/impress.js) - 它是一个基于现代浏览器中CSS3 transforms和transitions的强大功能的展示框架。 ![](https://img.shields.io/github/stars/bartaz/impress.js.svg?style=social&label=Star)
   - [slidev](https://github.com/slidevjs/slidev) - 为开发者准备的演示幻灯片。 ![](https://img.shields.io/github/stars/slidevjs/slidev.svg?style=social&label=Star)

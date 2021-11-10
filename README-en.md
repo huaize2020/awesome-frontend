@@ -83,6 +83,8 @@ English | [简体中文](./README.md)
   - [animate.css](https://github.com/animate-css/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing. ![](https://img.shields.io/github/stars/animate-css/animate.css.svg?style=social&label=Star)
   - [Hover.css](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS. ![](https://img.shields.io/github/stars/IanLunn/Hover.svg?style=social&label=Star)
   - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations. ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
+  - [csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM! ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
+
 
 ### Number
 
