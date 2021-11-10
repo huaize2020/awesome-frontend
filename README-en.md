@@ -50,6 +50,7 @@ English | [简体中文](./README.md)
     - [Excel/Spreadsheet](#excelspreadsheet)
     - [PDF](#pdf)
     - [Presentation/PPT](#presentationppt)
+  - [Terminal](#terminal)
   - [Web Components](#web-components)
 
 ## Official
@@ -321,6 +322,10 @@ English | [简体中文](./README.md)
   - [deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations. ![](https://img.shields.io/github/stars/imakewebthings/deck.js.svg?style=social&label=Star)
   - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework. ![](https://img.shields.io/github/stars/markdalgleish/bespoke.js.svg?style=social&label=Star)
   - [shower](https://github.com/shower/shower) - Shower HTML presentation engine. ![](https://img.shields.io/github/stars/shower/shower.svg?style=social&label=Star)
+
+### Terminal
+
+- [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. ![](https://img.shields.io/github/stars/xtermjs/xterm.js.svg?style=social&label=Star)
 
 ### Web Components
 *(You might like [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*

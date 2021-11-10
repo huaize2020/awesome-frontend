@@ -52,6 +52,7 @@
     - [Excel/电子表格](#excel电子表格)
     - [PDF](#pdf)
     - [演示/幻灯片](#演示幻灯片)
+  - [命令终端](#命令终端)
   - [Web Components](#web-components)
 
 ## 官方文档
@@ -318,6 +319,9 @@
   - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY展示的微框架。 ![](https://img.shields.io/github/stars/markdalgleish/bespoke.js.svg?style=social&label=Star)
   - [shower](https://github.com/shower/shower) - Shower HTML演示引擎。 ![](https://img.shields.io/github/stars/shower/shower.svg?style=social&label=Star)
 
+### 命令终端
+
+- [xterm.js](https://github.com/xtermjs/xterm.js) - Web上的命令终端. ![](https://img.shields.io/github/stars/xtermjs/xterm.js.svg?style=social&label=Star)
 
 ### Web Components
 *(你也许喜欢 [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*
