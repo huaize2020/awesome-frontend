@@ -30,12 +30,16 @@ English | [简体中文](./README.md)
   - [WebGL](#webgl)
   - [Animation](#animation-1)
     - [Parallax](#parallax)
+    - [Wave](#wave)
+    - [Particle/Path](#particlepath)
   - [Data Visualization](#data-visualization)
     - [Engine](#engine)
     - [Common](#common)
     - [Charts](#charts)
     - [Graphs](#graphs)
+    - [Flow Charts](#flow-charts)
     - [Map](#map)
+    - [Gantt](#gantt)
     - [Other](#other)
   - [Game](#game)
   - [Audio/Video](#audiovideo)
@@ -155,6 +159,7 @@ English | [简体中文](./README.md)
 - [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser. ![](https://img.shields.io/github/stars/fabricjs/fabric.js.svg?style=social&label=Star)
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance. ![](https://img.shields.io/github/stars/rough-stuff/rough.svg?style=social&label=Star)
 - [konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. ![](https://img.shields.io/github/stars/konvajs/konva.svg?style=social&label=Star)
+- [concrete](https://github.com/ericdrowell/concrete) - A lightweight Html5 Canvas framework that enables hit detection, layer support, pixel ratio management, exports, and downloads.![](https://img.shields.io/github/stars/ericdrowell/concrete.svg?style=social&label=Star)
 
 ### WebGL
 
@@ -179,56 +184,95 @@ English | [简体中文](./README.md)
 - [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device. ![](https://img.shields.io/github/stars/wagerfield/parallax.svg?style=social&label=Star)
 - [rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library. ![](https://img.shields.io/github/stars/dixonandmoe/rellax.svg?style=social&label=Star)
 
+#### Wave
+
+- [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas. ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?style=social)
+- [wavedrom](https://github.com/wavedrom/wavedrom) - 🌊 Digital timing diagram rendering engine. ![](https://img.shields.io/github/stars/wavedrom/wavedrom?style=social)
+- [waveforms](https://github.com/joshwcomeau/waveforms) - An interactive, explorable explanation about the peculiar magic of sound waves. ![](https://img.shields.io/github/stars/joshwcomeau/waveforms?style=social)
+- [siriwave](https://github.com/kopiro/siriwave) - Apple® Siri wave-form. ![](https://img.shields.io/github/stars/kopiro/siriwave?style=social)
+- [waveform-playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV!. ![](https://img.shields.io/github/stars/naomiaro/waveform-playlist?style=social)
+- [waves](https://github.com/dli/waves)- Ocean Wave Simulation. ![](https://img.shields.io/github/stars/dli/waves?style=social)
+
+#### Particle/Path
+
+- [Proton](https://github.com/drawcall/Proton) - Javascript particle animation library. ![](https://img.shields.io/github/stars/drawcall/Proton?style=social)
+- [bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped). ![](https://img.shields.io/github/stars/tipsy/bubbly-bg?style=social)
+- [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) - Bursting particle effect buttons for React 🎉. ![](https://img.shields.io/github/stars/transitive-bullshit/react-particle-effect-button?style=social)
+- [pasition](https://github.com/dntzhang/pasition) - Path Transition with little JS code, render to anywhere. ![](https://img.shields.io/github/stars/dntzhang/pasition?style=social)
+- [three.proton](https://github.com/drawcall/three.proton) - three.proton is a magical 3d particle engine using three.js library. It is based on the Proton engine library. ![](https://img.shields.io/github/stars/drawcall/three.proton?style=social)
+
 ### Data Visualization
 
 *You might like [awesome-react](https://github.com/huaize2020/awesome-react#%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96) data visualization*
 
 #### Engine
-  - [D3.js](https://github.com/d3/d3) - A JavaScript library for manipulating documents based on data. *(You might like [awesome-d3](https://github.com/wbkd/awesome-d3))* ![](https://img.shields.io/github/stars/d3/d3.svg?style=social&label=Star)
-    - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components ![](https://img.shields.io/github/stars/airbnb/visx.svg?style=social&label=Star)
-  - [Raphaël](http://raphaeljs.com/) - Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
-  - [zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts. ![](https://img.shields.io/github/stars/ecomfe/zrender.svg?style=social&label=Star)
-  - [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6. ![](https://img.shields.io/github/stars/antvis/g.svg?style=social&label=Star)
+
+- [D3.js](https://github.com/d3/d3) - A JavaScript library for manipulating documents based on data. *(You might like [awesome-d3](https://github.com/wbkd/awesome-d3))* ![](https://img.shields.io/github/stars/d3/d3.svg?style=social&label=Star)
+  - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components ![](https://img.shields.io/github/stars/airbnb/visx.svg?style=social&label=Star)
+- [Raphaël](http://raphaeljs.com/) - Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
+- [zrender](https://github.com/ecomfe/zrender) - A lightweight graphic library providing 2d draw for Apache ECharts. ![](https://img.shields.io/github/stars/ecomfe/zrender.svg?style=social&label=Star)
+- [g](https://github.com/antvis/g) - A powerful rendering engine which providing Canvas and SVG draw for G2 & G6. ![](https://img.shields.io/github/stars/antvis/g.svg?style=social&label=Star)
 
 #### Common
-  - [ECharts](https://github.com/apache/echarts) - A powerful charts library from Baidu. ![](https://img.shields.io/github/stars/apache/echarts.svg?style=social&label=Star)
-    - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts. ![](https://img.shields.io/github/stars/ElemeFE/v-charts.svg?style=social&label=Star)
-    - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Uses Apache ECharts 5 and works for both Vue.js 2/3. ![](https://img.shields.io/github/stars/ecomfe/vue-echarts.svg?style=social&label=Star)
-  - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers Plotly. ![](https://img.shields.io/github/stars/plotly/plotly.js.svg?style=social&label=Star)
-  - [HighCharts](https://github.com/highcharts/highcharts) - Create interactive charts easily for your web projects. ![](https://img.shields.io/github/stars/highcharts/highcharts.svg?style=social&label=Star)
+
+- [ECharts](https://github.com/apache/echarts) - A powerful charts library from Baidu. ![](https://img.shields.io/github/stars/apache/echarts.svg?style=social&label=Star)
+  - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts. ![](https://img.shields.io/github/stars/ElemeFE/v-charts.svg?style=social&label=Star)
+  - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Uses Apache ECharts 5 and works for both Vue.js 2/3. ![](https://img.shields.io/github/stars/ecomfe/vue-echarts.svg?style=social&label=Star)
+  - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) - Apache ECharts (incubating) for wechat. ![](https://img.shields.io/github/stars/ecomfe/echarts-for-weixin.svg?style=social)
+- [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers Plotly. ![](https://img.shields.io/github/stars/plotly/plotly.js.svg?style=social&label=Star)
+- [HighCharts](https://github.com/highcharts/highcharts) - Create interactive charts easily for your web projects. ![](https://img.shields.io/github/stars/highcharts/highcharts.svg?style=social&label=Star)
 
 #### Charts
-  - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag. ![](https://img.shields.io/github/stars/chartjs/Chart.js.svg?style=social&label=Star)
-  - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies. ![](https://img.shields.io/github/stars/frappe/charts.svg?style=social&label=Star)
-  - [G2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript. ![](https://img.shields.io/github/stars/antvis/g2.svg?style=social&label=Star)
-    - [BizCharts](https://github.com/alibaba/BizCharts/) - Powerful data visualization library based on G2 and React. ![](https://img.shields.io/github/stars/alibaba/BizCharts.svg?style=social&label=Star)
-    - [g2plot](https://github.com/antvis/g2plot) - An interactive and responsive charting library. ![](https://img.shields.io/github/stars/antvis/g2plot.svg?style=social&label=Star)
-    - [viser](https://github.com/viserjs/viser) - Viser is a toolkit fit for data vis engineer. ![](https://img.shields.io/github/stars/viserjs/viser.svg?style=social&label=Star)
-  - [ApexCharts](https://github.com/apexcharts/apexcharts.js) - Interactive JavaScript Charts built on SVG. ![](https://img.shields.io/github/stars/apexcharts/apexcharts.js.svg?style=social&label=Star)
-  - [F2](https://github.com/antvis/f2) - An elegant, interactive and flexible charting library for mobile. ![](https://img.shields.io/github/stars/antvis/f2.svg?style=social&label=Star)
-  - [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars. ![](https://img.shields.io/github/stars/leeoniya/uPlot.svg?style=social&label=Star)
-  - [flot](http://github.com/flot/flot) - Attractive JavaScript charts for jQuery. ![](https://img.shields.io/github/stars/flot/flot.svg?style=social&label=Star)
-  - [Peity](https://github.com/benpickles/peity) - Progressive svg pie, donut, bar and line charts. ![](https://img.shields.io/github/stars/benpickles/peity.svg?style=social&label=Star)
+
+- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag. ![](https://img.shields.io/github/stars/chartjs/Chart.js.svg?style=social&label=Star)
+- [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies. ![](https://img.shields.io/github/stars/frappe/charts.svg?style=social&label=Star)
+- [G2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript. ![](https://img.shields.io/github/stars/antvis/g2.svg?style=social&label=Star)
+  - [BizCharts](https://github.com/alibaba/BizCharts/) - Powerful data visualization library based on G2 and React. ![](https://img.shields.io/github/stars/alibaba/BizCharts.svg?style=social&label=Star)
+  - [g2plot](https://github.com/antvis/g2plot) - An interactive and responsive charting library. ![](https://img.shields.io/github/stars/antvis/g2plot.svg?style=social&label=Star)
+  - [viser](https://github.com/viserjs/viser) - Viser is a toolkit fit for data vis engineer. ![](https://img.shields.io/github/stars/viserjs/viser.svg?style=social&label=Star)
+- [ApexCharts](https://github.com/apexcharts/apexcharts.js) - Interactive JavaScript Charts built on SVG. ![](https://img.shields.io/github/stars/apexcharts/apexcharts.js.svg?style=social&label=Star)
+- [F2](https://github.com/antvis/f2) - An elegant, interactive and flexible charting library for mobile. ![](https://img.shields.io/github/stars/antvis/f2.svg?style=social&label=Star)
+- [uPlot](https://github.com/leeoniya/uPlot) - A small, fast chart for time series, lines, areas, ohlc & bars. ![](https://img.shields.io/github/stars/leeoniya/uPlot.svg?style=social&label=Star)
+- [flot](http://github.com/flot/flot) - Attractive JavaScript charts for jQuery. ![](https://img.shields.io/github/stars/flot/flot.svg?style=social&label=Star)
+- [Peity](https://github.com/benpickles/peity) - Progressive svg pie, donut, bar and line charts. ![](https://img.shields.io/github/stars/benpickles/peity.svg?style=social&label=Star)
 
 #### Graphs
-  - [Sigma](https://github.com/jacomyal/sigma.js) - Sigma is a JavaScript library dedicated to graph drawing. ![](https://img.shields.io/github/stars/jacomyal/sigma.js.svg?style=social&label=Star)
-  - [G6](https://github.com/antvis/G6) - A Graph Visualization Framework in JavaScript. ![](https://img.shields.io/github/stars/antvis/G6.svg?style=social&label=Star)
-    - [graphin](https://github.com/antvis/graphin) - A React toolkit for graph visualization based on G6. ![](https://img.shields.io/github/stars/antvis/graphin.svg?style=social&label=Star)
-  - [cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis. ![](https://img.shields.io/github/stars/cytoscape/cytoscape.js.svg?style=social&label=Star)
-  - [Springy](https://github.com/dhotson/springy/) - Springy is a force directed graph layout algorithm. ![](https://img.shields.io/github/stars/dhotson/springy.svg?style=social&label=Star)
-  - [WebCola](https://github.com/tgdwyer/WebCola) - Javascript constraint-based graph layout. ![](https://img.shields.io/github/stars/tgdwyer/WebCola.svg?style=social&label=Star)
+
+- [Sigma](https://github.com/jacomyal/sigma.js) - Sigma is a JavaScript library dedicated to graph drawing. ![](https://img.shields.io/github/stars/jacomyal/sigma.js.svg?style=social&label=Star)
+- [G6](https://github.com/antvis/G6) - A Graph Visualization Framework in JavaScript. ![](https://img.shields.io/github/stars/antvis/G6.svg?style=social&label=Star)
+  - [graphin](https://github.com/antvis/graphin) - A React toolkit for graph visualization based on G6. ![](https://img.shields.io/github/stars/antvis/graphin.svg?style=social&label=Star)
+- [cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis. ![](https://img.shields.io/github/stars/cytoscape/cytoscape.js.svg?style=social&label=Star)
+- [Springy](https://github.com/dhotson/springy/) - Springy is a force directed graph layout algorithm. ![](https://img.shields.io/github/stars/dhotson/springy.svg?style=social&label=Star)
+- [WebCola](https://github.com/tgdwyer/WebCola) - Javascript constraint-based graph layout. ![](https://img.shields.io/github/stars/tgdwyer/WebCola.svg?style=social&label=Star)
+
+#### Flow Charts
+
+- [Flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨, ![](https://img.shields.io/github/stars/alyssaxuu/flowy.svg?style=social)
+- [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram. ![](https://img.shields.io/github/stars/adrai/flowchart.js.svg?style=social)
+- [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram. ![](https://img.shields.io/github/stars/bramp/js-sequence-diagrams.svg?style=social&label=Star)
+- [GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. ![](https://img.shields.io/github/stars/NorthwoodsSoftware/GoJS.svg?style=social)
+- [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown. ![](https://img.shields.io/github/forks/mermaid-js/mermaid.svg?style=social)
+- [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool. ![](https://img.shields.io/github/stars/vanila-io/wireflow.svg?style=social)
+- [butterfly](https://github.com/alibaba/butterfly) - Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.  ![](https://img.shields.io/github/stars/alibaba/butterfly.svg?style=social)
+- [Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️。 ![](https://img.shields.io/github/stars/jerosoler/Drawflow.svg?style=social)
 
 #### Map
-  - [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. ![](https://img.shields.io/github/stars/Leaflet/Leaflet.svg?style=social&label=Star)
-  - [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers. ![](https://img.shields.io/github/stars/visgl/deck.gl.svg?style=social&label=Star)
-  - [OpenLayers](https://github.com/openlayers/openlayers) - A high-performance, feature-packed library for all your mapping needs. ![](https://img.shields.io/github/stars/openlayers/openlayers.svg?style=social&label=Star)
-  - [cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps. ![](https://img.shields.io/github/stars/CesiumGS/cesium.svg?style=social&label=Star)
-  - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps. ![](https://img.shields.io/github/stars/antvis/L7.svg?style=social&label=Star)
-  - [tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography. ![](https://img.shields.io/github/stars/tangrams/tangram.svg?style=social&label=Star)
+
+- [Leaflet](https://github.com/Leaflet/Leaflet) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. ![](https://img.shields.io/github/stars/Leaflet/Leaflet.svg?style=social&label=Star)
+- [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers. ![](https://img.shields.io/github/stars/visgl/deck.gl.svg?style=social&label=Star)
+- [OpenLayers](https://github.com/openlayers/openlayers) - A high-performance, feature-packed library for all your mapping needs. ![](https://img.shields.io/github/stars/openlayers/openlayers.svg?style=social&label=Star)
+- [cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps. ![](https://img.shields.io/github/stars/CesiumGS/cesium.svg?style=social&label=Star)
+- [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps. ![](https://img.shields.io/github/stars/antvis/L7.svg?style=social&label=Star)
+- [tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography. ![](https://img.shields.io/github/stars/tangrams/tangram.svg?style=social&label=Star)
+
+#### Gantt
+
+- [gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt. ![](https://img.shields.io/github/stars/frappe/gantt?style=social).
+- [jQueryGantt](https://github.com/robicch/jQueryGantt) - jQuery Gantt editor. ![](https://img.shields.io/github/stars/robicch/jQueryGantt?style=social)
+- [gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Gantt Gantt Gantt Timeline Schedule Calendar [ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gantt, booking manager ]. ![](https://img.shields.io/github/stars/neuronetio/gantt-schedule-timeline-calendar?style=social)
 
 #### Other
-  - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown. ![](https://img.shields.io/github/stars/mermaid-js/mermaid.svg?style=social&label=Star)
-  - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram. ![](https://img.shields.io/github/stars/bramp/js-sequence-diagrams.svg?style=social&label=Star)
+
 
 ### Game
 
@@ -297,33 +341,40 @@ English | [简体中文](./README.md)
   - [bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component built with Svelte. ![](https://img.shields.io/github/stars/bytedance/bytemd.svg?style=social&label=Star)
 
 #### Canvas Editor
-  - [DrawerJs](https://github.com/carstenschaefer/DrawerJs) - A customizable WYSIWYG HTML canvas editor. ![](https://img.shields.io/github/stars/bytedance/bytemd.svg?style=social&label=Star)
+
+- [DrawerJs](https://github.com/carstenschaefer/DrawerJs) - A customizable WYSIWYG HTML canvas editor. ![](https://img.shields.io/github/stars/bytedance/bytemd.svg?style=social&label=Star)
+- [fabric-js-editor](https://github.com/danielktaylor/fabric-js-editor) - An HTML5 vector image editor built with Fabric.js. ![](https://img.shields.io/github/stars/danielktaylor/fabric-js-editor?style=social)
 
 ### Office
 
 #### Excel/Spreadsheet
-  - [sheetjs](https://github.com/SheetJS/sheetjs) - Spreadsheet Data Toolkit. ![](https://img.shields.io/github/stars/SheetJS/sheetjs.svg?style=social&label=Star)
-  - [handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. ![](https://img.shields.io/github/stars/handsontable/handsontable.svg?style=social&label=Star)
-  - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. ![](https://img.shields.io/github/stars/mengshukeji/Luckysheet.svg?style=social&label=Star)
-  - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager. ![](https://img.shields.io/github/stars/exceljs/exceljs.svg?style=social&label=Star)
-  - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX parser/generator written in JavaScript with Node.js and browser support. ![](https://img.shields.io/github/stars/dtjohnson/xlsx-populate.svg?style=social&label=Star)
+
+- [sheetjs](https://github.com/SheetJS/sheetjs) - Spreadsheet Data Toolkit. ![](https://img.shields.io/github/stars/SheetJS/sheetjs.svg?style=social&label=Star)
+- [handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. ![](https://img.shields.io/github/stars/handsontable/handsontable.svg?style=social&label=Star)
+- [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. ![](https://img.shields.io/github/stars/mengshukeji/Luckysheet.svg?style=social&label=Star)
+- [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager. ![](https://img.shields.io/github/stars/exceljs/exceljs.svg?style=social&label=Star)
+- [SlickGrid](https://github.com/mleibman/SlickGrid) - A lightning fast JavaScript grid/spreadsheet. ![](https://img.shields.io/github/stars/mleibman/SlickGrid?style=social)
+- [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Excel XLSX parser/generator written in JavaScript with Node.js and browser support. ![](https://img.shields.io/github/stars/dtjohnson/xlsx-populate.svg?style=social&label=Star)
 
 #### PDF
-  - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript. ![](https://img.shields.io/github/stars/mozilla/pdf.js.svg?style=social&label=Star)
-  - [jsPDF](https://github.com/MrRio/jsPDF) - A library to generate PDFs in JavaScript. ![](https://img.shields.io/github/stars/MrRio/jsPDF.svg?style=social&label=Star)
-  - [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - React renderer for creating PDF files on the browser and server. ![](https://img.shields.io/github/stars/diegomura/react-pdf.svg?style=social&label=Star)
-  - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. 4.6k ![](https://img.shields.io/github/stars/wojtekmaj/react-pdf.svg?style=social&label=Star)
-  - [@phuocng/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document. ![](https://img.shields.io/github/stars/react-pdf-viewer/react-pdf-viewer.svg?style=social&label=Star)
-  - [@mikecousins/react-pdf](https://github.com/mikecousins/react-pdf-js) - A React component to wrap PDF.js. ![](https://img.shields.io/github/stars/mikecousins/react-pdf-js.svg?style=social&label=Star)
-  - [react-file-viewer](https://github.com/plangrid/react-file-viewer) - Extendable file viewer for web. ![](https://img.shields.io/github/stars/plangrid/react-file-viewer.svg?style=social&label=Star)
+
+- [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript. ![](https://img.shields.io/github/stars/mozilla/pdf.js.svg?style=social&label=Star)
+- [jsPDF](https://github.com/MrRio/jsPDF) - A library to generate PDFs in JavaScript. ![](https://img.shields.io/github/stars/MrRio/jsPDF.svg?style=social&label=Star)
+- [@react-pdf/renderer](https://github.com/diegomura/react-pdf) - React renderer for creating PDF files on the browser and server. ![](https://img.shields.io/github/stars/diegomura/react-pdf.svg?style=social&label=Star)
+- [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. 4.6k ![](https://img.shields.io/github/stars/wojtekmaj/react-pdf.svg?style=social&label=Star)
+- [html2pdf](https://github.com/eKoopmans/html2pdf.js) - html2pdf.js converts any webpage or element into a printable PDF entirely client-side using html2canvas and jsPDF. ![](https://img.shields.io/github/stars/eKoopmans/html2pdf.js.svg?style=social&label=Star)
+- [@phuocng/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document. ![](https://img.shields.io/github/stars/react-pdf-viewer/react-pdf-viewer.svg?style=social&label=Star)
+- [@mikecousins/react-pdf](https://github.com/mikecousins/react-pdf-js) - A React component to wrap PDF.js. ![](https://img.shields.io/github/stars/mikecousins/react-pdf-js.svg?style=social&label=Star)
+- [react-file-viewer](https://github.com/plangrid/react-file-viewer) - Extendable file viewer for web. ![](https://img.shields.io/github/stars/plangrid/react-file-viewer.svg?style=social&label=Star)
 
 #### Presentation/PPT
-  - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework. ![](https://img.shields.io/github/stars/hakimel/reveal.js.svg?style=social&label=Star)
-  - [impress.js](https://github.com/bartaz/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ![](https://img.shields.io/github/stars/bartaz/impress.js.svg?style=social&label=Star)
-  - [slidev](https://github.com/slidevjs/slidev) - Presentation slides for developers. ![](https://img.shields.io/github/stars/slidevjs/slidev.svg?style=social&label=Star)
-  - [deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations. ![](https://img.shields.io/github/stars/imakewebthings/deck.js.svg?style=social&label=Star)
-  - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework. ![](https://img.shields.io/github/stars/markdalgleish/bespoke.js.svg?style=social&label=Star)
-  - [shower](https://github.com/shower/shower) - Shower HTML presentation engine. ![](https://img.shields.io/github/stars/shower/shower.svg?style=social&label=Star)
+
+- [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework. ![](https://img.shields.io/github/stars/hakimel/reveal.js.svg?style=social&label=Star)
+- [impress.js](https://github.com/bartaz/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ![](https://img.shields.io/github/stars/bartaz/impress.js.svg?style=social&label=Star)
+- [slidev](https://github.com/slidevjs/slidev) - Presentation slides for developers. ![](https://img.shields.io/github/stars/slidevjs/slidev.svg?style=social&label=Star)
+- [deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations. ![](https://img.shields.io/github/stars/imakewebthings/deck.js.svg?style=social&label=Star)
+- [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework. ![](https://img.shields.io/github/stars/markdalgleish/bespoke.js.svg?style=social&label=Star)
+- [shower](https://github.com/shower/shower) - Shower HTML presentation engine. ![](https://img.shields.io/github/stars/shower/shower.svg?style=social&label=Star)
 
 ### Terminal
 
