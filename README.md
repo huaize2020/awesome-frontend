@@ -4,9 +4,12 @@
 >
 > 同时推荐你查看我正在维护的其他仓库
 > - [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)
-> - [awesome-koa](https://github.com/huaize2020/awesome-koa)
-> - [awesome-egg](https://github.com/huaize2020/awesome-egg)
-> - [awesome-react](https://github.com/huaize2020/awesome-react)
+>   - [awesome-koa](https://github.com/huaize2020/awesome-koa)
+>   - [awesome-egg](https://github.com/huaize2020/awesome-egg)
+>   - [awesome-electron](https://github.com/electron-modules/awesome-electron)
+> - [awesome-frontend](https://github.com/huaize2020/awesome-frontend)
+>   - [awesome-react](https://github.com/huaize2020/awesome-react)
+>   - [awesome-react-native](https://github.com/huaize2020/awesome-react-native)
 
 ## 目录
 
