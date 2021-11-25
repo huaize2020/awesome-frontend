@@ -83,15 +83,16 @@ English | [简体中文](./README.md)
 ### CSS
 
 #### Framework
-  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social&label=Star)
-  - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox. ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social&label=Star)
+
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social&label=Star)
+- [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox. ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social&label=Star)
 
 #### Animation
-  - [animate.css](https://github.com/animate-css/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing. ![](https://img.shields.io/github/stars/animate-css/animate.css.svg?style=social&label=Star)
-  - [Hover.css](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS. ![](https://img.shields.io/github/stars/IanLunn/Hover.svg?style=social&label=Star)
-  - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations. ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
-  - [csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM! ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
 
+- [animate.css](https://github.com/animate-css/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing. ![](https://img.shields.io/github/stars/animate-css/animate.css.svg?style=social&label=Star)
+- [Hover.css](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS. ![](https://img.shields.io/github/stars/IanLunn/Hover.svg?style=social&label=Star)
+- [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations. ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
+- [csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM! ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
 
 ### Number
 
@@ -354,6 +355,7 @@ English | [简体中文](./README.md)
 
 - [sheetjs](https://github.com/SheetJS/sheetjs) - Spreadsheet Data Toolkit. ![](https://img.shields.io/github/stars/SheetJS/sheetjs.svg?style=social&label=Star)
 - [handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. ![](https://img.shields.io/github/stars/handsontable/handsontable.svg?style=social&label=Star)
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas）spreadsheet. ![](https://img.shields.io/github/stars/myliang/x-spreadsheet.svg?style=social&label=Star)
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. ![](https://img.shields.io/github/stars/mengshukeji/Luckysheet.svg?style=social&label=Star)
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager. ![](https://img.shields.io/github/stars/exceljs/exceljs.svg?style=social&label=Star)
 - [SlickGrid](https://github.com/mleibman/SlickGrid) - A lightning fast JavaScript grid/spreadsheet. ![](https://img.shields.io/github/stars/mleibman/SlickGrid?style=social)

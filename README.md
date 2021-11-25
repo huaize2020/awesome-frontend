@@ -56,7 +56,7 @@
     - [Markdown编辑器](#markdown编辑器)
     - [图形绘制编辑器](#图形绘制编辑器)
   - [办公软件](#办公软件)
-    - [Excel/电子表格](#excel电子表格)
+    - [Excel/在线表格](#excel在线表格)
     - [PDF](#pdf)
     - [演示/幻灯片](#演示幻灯片)
   - [命令终端](#命令终端)
@@ -97,14 +97,16 @@
 ### CSS
 
 #### 框架
-  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - 一个功能类优先的 CSS 框架。 ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social&label=Star)
-  - [bulma](https://github.com/jgthms/bulma) - 基于 Flexbox 的现代CSS框架。 ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social&label=Star)
+
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - 一个功能类优先的 CSS 框架。 ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social&label=Star)
+- [bulma](https://github.com/jgthms/bulma) - 基于 Flexbox 的现代CSS框架。 ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social&label=Star)
 
 #### CSS动画
-  - [animate.css](https://github.com/animate-css/animate.css) - 跨浏览器CSS动画库。简单易用。 ![](https://img.shields.io/github/stars/animate-css/animate.css.svg?style=social&label=Star)
-  - [Hover.css](https://github.com/IanLunn/Hover) - 一个悬停效果的CSS3集合，可应用于链接、按钮、徽标、SVG、特色图像等。提供CSS、Sass等版本。 ![](https://img.shields.io/github/stars/IanLunn/Hover.svg?style=social&label=Star)
-  - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - 令人愉快的、注重性能的纯 css 加载动画。 ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
-  - [csshake](https://github.com/elrumordelaluz/csshake) - 让你的 DOM 颤抖起来。 ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
+
+- [animate.css](https://github.com/animate-css/animate.css) - 跨浏览器CSS动画库。简单易用。 ![](https://img.shields.io/github/stars/animate-css/animate.css.svg?style=social&label=Star)
+- [Hover.css](https://github.com/IanLunn/Hover) - 一个悬停效果的CSS3集合，可应用于链接、按钮、徽标、SVG、特色图像等。提供CSS、Sass等版本。 ![](https://img.shields.io/github/stars/IanLunn/Hover.svg?style=social&label=Star)
+- [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - 令人愉快的、注重性能的纯 css 加载动画。 ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
+- [csshake](https://github.com/elrumordelaluz/csshake) - 让你的 DOM 颤抖起来。 ![](https://img.shields.io/github/stars/ConnorAtherton/loaders.css.svg?style=social&label=Star)
 
 ### 数字
 
@@ -352,10 +354,11 @@
 
 ### 办公软件
 
-#### Excel/电子表格
+#### Excel/在线表格
 
 - [sheetjs](https://github.com/SheetJS/sheetjs) - 电子表格数据工具箱。 ![](https://img.shields.io/github/stars/SheetJS/sheetjs.svg?style=social&label=Star)
 - [handsontable](https://github.com/handsontable/handsontable) - 带有电子表格外观的 JavaScript 数据网格。 适用于 React、Angular 和 Vue。 ![](https://img.shields.io/github/stars/handsontable/handsontable.svg?style=social&label=Star)
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - 基于Web Canvas的在线表格。 ![](https://img.shields.io/github/stars/myliang/x-spreadsheet.svg?style=social&label=Star)
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet，一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。 ![](https://img.shields.io/github/stars/mengshukeji/Luckysheet.svg?style=social&label=Star)
 - [exceljs](https://github.com/exceljs/exceljs) - Excel工作表管理工具。 ![](https://img.shields.io/github/stars/exceljs/exceljs.svg?style=social&label=Star)
 - [SlickGrid](https://github.com/mleibman/SlickGrid) - 极快的JavaScript网格/电子表格 ![](https://img.shields.io/github/stars/mleibman/SlickGrid?style=social)
