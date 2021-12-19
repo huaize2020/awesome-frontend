@@ -96,6 +96,7 @@
 ### 面试题
 
 - [面试题集合](https://github.com/shfshanyue/Daily-Question/issues?page=1) - [@山月](https://github.com/shfshanyue) 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中。 ![](https://img.shields.io/github/stars/shfshanyue/Daily-Question.svg?style=social&label=Star)
+- [剑指前端 Offer](https://github.com/hzfe/awesome-interview) - [@HZFE](https://github.com/HZFE) ![](https://img.shields.io/github/stars/hzfe/awesome-interview.svg?style=social&label=Star)
 
 ## GIT仓库
 
