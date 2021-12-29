@@ -93,6 +93,7 @@
 
 - [前端精读周刊](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。 ![](https://img.shields.io/github/stars/ascoders/weekly.svg?style=social&label=Star)
 - [Web 技术周刊](https://www.yuque.com/awesome/fe_weekly) - 汇总平时看到的优秀文章，前端为主，兼含其它技术及少量产品、设计、管理内容。
+- [前端日报](https://github.com/kujian/frontendDaily/issues) - 每日会挑选一些比较有用的文章发在公众号上，欢迎关注。 ![](https://img.shields.io/github/stars/kujian/frontendDaily.svg?style=social&label=Star)
 
 ### 面试题
 
