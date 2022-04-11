@@ -31,6 +31,7 @@ English | [简体中文](./README.md)
   - [Micro Frontend](#micro-frontend)
   - [Canvas/SVG](#canvassvg)
   - [WebGL](#webgl)
+  - [Storage](#storage)
   - [Animation](#animation-1)
     - [Parallax](#parallax)
     - [Wave](#wave)
@@ -171,6 +172,10 @@ English | [简体中文](./README.md)
 - [pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. ![](https://img.shields.io/github/stars/pixijs/pixijs.svg?style=social&label=Star)
 - [gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps. ![](https://img.shields.io/github/stars/toji/gl-matrix.svg?style=social&label=Star)
 - [Oasis Engine](https://github.com/oasis-engine/engine) - Oasis Engine is a web-first and mobile-first high-performance real-time development platform. ![](https://img.shields.io/github/stars/oasis-engine/engine.svg?style=social&label=Star)
+
+### Storage
+
+- [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API. ![](https://img.shields.io/github/stars/localForage/localForage.svg?style=social&label=Star)
 
 ### Animation
 

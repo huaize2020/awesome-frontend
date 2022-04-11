@@ -36,6 +36,7 @@
   - [微前端](#微前端)
   - [Canvas/SVG](#canvassvg)
   - [WebGL](#webgl)
+  - [存储](#存储)
   - [动画](#动画)
     - [视觉差](#视觉差)
     - [波纹](#波纹)
@@ -200,6 +201,10 @@
 - [pixijs](https://github.com/pixijs/pixijs) - HTML5创意引擎：用最快、最灵活的2D WebGL渲染器创建漂亮的数码内容。 ![](https://img.shields.io/github/stars/pixijs/pixijs.svg?style=social&label=Star)
 - [gl-matrix](https://github.com/toji/gl-matrix) - 用于操作矩阵和向量，开发高性能的 WebGL 应用程序的JavaScript库。 ![](https://img.shields.io/github/stars/toji/gl-matrix.svg?style=social&label=Star)
 - [Oasis Engine](https://github.com/oasis-engine/engine) - Oasis Engine 是一个Web优先 和 移动端优先的高性能实时开发平台。 ![](https://img.shields.io/github/stars/oasis-engine/engine.svg?style=social&label=Star)
+
+### 存储
+
+- [localForage](https://github.com/localForage/localForage) - 💾 离线存储增强。 基于 IndexedDB、WebSQL 或 localStorage 封装的使用简单但功能强大的 API 。 ![](https://img.shields.io/github/stars/localForage/localForage.svg?style=social&label=Star)
 
 ### 动画
 
