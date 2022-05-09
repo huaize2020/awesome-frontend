@@ -36,6 +36,7 @@ English | [简体中文](./README.md)
     - [Parallax](#parallax)
     - [Wave](#wave)
     - [Particle/Path](#particlepath)
+    - [Emoji](#emoji)
   - [Data Visualization](#data-visualization)
     - [Engine](#engine)
     - [Common](#common)
@@ -209,6 +210,10 @@ English | [简体中文](./README.md)
 - [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) - Bursting particle effect buttons for React 🎉. ![](https://img.shields.io/github/stars/transitive-bullshit/react-particle-effect-button?style=social)
 - [pasition](https://github.com/dntzhang/pasition) - Path Transition with little JS code, render to anywhere. ![](https://img.shields.io/github/stars/dntzhang/pasition?style=social)
 - [three.proton](https://github.com/drawcall/three.proton) - three.proton is a magical 3d particle engine using three.js library. It is based on the Proton engine library. ![](https://img.shields.io/github/stars/drawcall/three.proton?style=social)
+
+#### Emoji
+
+- [emoji-mart](https://github.com/missive/emoji-mart) - Emoji Mart is a customizable emoji picker HTML component for the web. ![](https://img.shields.io/github/stars/missive/emoji-mart.svg?style=social)
 
 ### Data Visualization
 

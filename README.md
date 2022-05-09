@@ -41,6 +41,7 @@
     - [视觉差](#视觉差)
     - [波纹](#波纹)
     - [粒子/路径动画](#粒子路径动画)
+  - [表情](#表情)
   - [数据可视化](#数据可视化)
     - [引擎](#引擎)
     - [通用](#通用)
@@ -87,6 +88,7 @@
 ### 教程
 
 - [超详细的前端入门到进阶学习笔记](https://github.com/qianguyihao/Web) - 公众号「千古壹号」作者，超详细的前端入门到进阶学习笔记。 ![](https://img.shields.io/github/stars/qianguyihao/Web.svg?style=social&label=Star)
+- [前端知识结构](https://github.com/JacksonTian/fks) - 前端开发知识结构集合。 ![](https://img.shields.io/github/stars/JacksonTian/fks.svg?style=social&label=Star)
 - [all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这。 ![](https://img.shields.io/github/stars/KieSun/all-of-frontend.svg?style=social&label=Star)
 - [前端小课](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。 ![](https://img.shields.io/github/stars/lefex/FE.svg?style=social&label=Star)
 
@@ -238,6 +240,10 @@
 - [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) - 基于React的爆裂粒子效果按钮。 ![](https://img.shields.io/github/stars/transitive-bullshit/react-particle-effect-button?style=social)
 - [pasition](https://github.com/dntzhang/pasition) - 轻量级 Path 过渡库，可以渲染到任何地方。 ![](https://img.shields.io/github/stars/dntzhang/pasition?style=social)
 - [three.proton](https://github.com/drawcall/three.proton) - 一个神奇的 3d 粒子引擎，使用了three.js库和Proton。 ![](https://img.shields.io/github/stars/drawcall/three.proton?style=social)
+
+### 表情
+
+- [emoji-mart](https://github.com/missive/emoji-mart) - Emoji Mart 是一个可定制的表情选择器组件。![](https://img.shields.io/github/stars/missive/emoji-mart.svg?style=social)
 
 ### 数据可视化
 
