@@ -65,6 +65,7 @@
     - [演示/幻灯片](#演示幻灯片)
   - [命令终端](#命令终端)
   - [Web Components](#web-components)
+  - [指纹](#指纹)
 
 ## 官方文档
 
@@ -421,3 +422,7 @@
 - [skatejs](https://github.com/skatejs/skatejs) - Skate 是基于 Web Components 标准的函数式响应式抽象，使您能够使用流行的视图库（如 React、Preact 和 LitHTML一样）编写小型、快速和可扩展的 Web 组件。 ![](https://img.shields.io/github/stars/skatejs/skatejs.svg?style=social&label=Star)
 - [x-tag](https://github.com/x-tag/core) - 现代浏览器自定义组件。 ![](https://img.shields.io/github/stars/x-tag/core.svg?style=social&label=Star)
 - [slim.js](https://github.com/slimjs/slim.js) - Slim是一个用于Web Components开发的超快，原生和优雅的库。 ![](https://img.shields.io/github/stars/slimjs/slim.js.svg?style=social&label=Star)
+
+### 指纹
+
+- [clientjs](https://github.com/jackspirou/clientjs) - 设备信息 和 数字指纹。 ![](https://img.shields.io/github/stars/jackspirou/clientjs.svg?style=social&label=Star)

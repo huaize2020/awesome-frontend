@@ -61,6 +61,7 @@ English | [简体中文](./README.md)
     - [Presentation/PPT](#presentationppt)
   - [Terminal](#terminal)
   - [Web Components](#web-components)
+  - [Finger Printing](#finger-printing)
 
 ## Official
 
@@ -405,3 +406,6 @@ English | [简体中文](./README.md)
 - [x-tag](https://github.com/x-tag/core) - Custom Elements for Modern Browsers. ![](https://img.shields.io/github/stars/x-tag/core.svg?style=social&label=Star)
 - [slim.js](https://github.com/slimjs/slim.js) - Slim is an ultra fast, native and elegant library for Web Components development. ![](https://img.shields.io/github/stars/slimjs/slim.js.svg?style=social&label=Star)
 
+### Finger Printing
+
+- [clientjs](https://github.com/jackspirou/clientjs) - Device information and digital fingerprinting written in pure JavaScript。 ![](https://img.shields.io/github/stars/jackspirou/clientjs.svg?style=social&label=Star)
