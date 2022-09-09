@@ -351,6 +351,7 @@
 - [wangEditor](https://github.com/wangeditor-team/wangEditor) - 轻量级web富文本框。 ![](https://img.shields.io/github/stars/wangeditor-team/wangEditor.svg?style=social&label=Star)
 - [pell](https://github.com/jaredreich/pell) - 简单、小巧的 Web 所见即所得文本编辑器，无依赖项。 ![](https://img.shields.io/github/stars/jaredreich/pell.svg?style=social&label=Star)
 - [tinymce](https://github.com/tinymce/tinymce) - 用于富文本编辑的 JavaScript 库。 适用于 React、Vue 和 Angular。 ![](https://img.shields.io/github/stars/tinymce/tinymce.svg?style=social&label=Star)
+- [prosemirror](https://github.com/ProseMirror/prosemirror) - 基于 contentEditable 的表现良好的丰富语义内容编辑器，支持协作编辑和自定义文档模式。 ![](https://img.shields.io/github/stars/ProseMirror/prosemirror.svg?style=social&label=Star)
 - [ckeditor4](https://github.com/ckeditor/ckeditor4) - 最好的企业级所见即所得编辑器。完全可定制的无数功能和插件。 ![](https://img.shields.io/github/stars/ckeditor/ckeditor4.svg?style=social&label=Star)
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) - 强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。 ![](https://img.shields.io/github/stars/ckeditor/ckeditor5.svg?style=social&label=Star)
 - [simditor](https://github.com/mycolorway/simditor) - 一个简单快速的所见即所得(WYSIWYG)编辑器。 ![](https://img.shields.io/github/stars/mycolorway/simditor.svg?style=social&label=Star)
