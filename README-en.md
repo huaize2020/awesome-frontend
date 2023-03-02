@@ -23,7 +23,7 @@ English | [简体中文](./README.md)
     - [Animation](#animation)
   - [Number](#number)
   - [Math](#math)
-  - [Date & Time](#date--time)
+  - [Date \& Time](#date--time)
   - [JavaScript Framework](#javascript-framework)
   - [Cross Platform/Multiple Platform](#cross-platformmultiple-platform)
   - [Form](#form)
@@ -31,6 +31,7 @@ English | [简体中文](./README.md)
   - [Micro Frontend](#micro-frontend)
   - [Canvas/SVG](#canvassvg)
   - [WebGL](#webgl)
+  - [FullScreen](#fullscreen)
   - [Storage](#storage)
   - [Animation](#animation-1)
     - [Parallax](#parallax)
@@ -174,6 +175,10 @@ English | [简体中文](./README.md)
 - [pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. ![](https://img.shields.io/github/stars/pixijs/pixijs.svg?style=social&label=Star)
 - [gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps. ![](https://img.shields.io/github/stars/toji/gl-matrix.svg?style=social&label=Star)
 - [Oasis Engine](https://github.com/oasis-engine/engine) - Oasis Engine is a web-first and mobile-first high-performance real-time development platform. ![](https://img.shields.io/github/stars/oasis-engine/engine.svg?style=social&label=Star)
+
+### FullScreen
+
+- [screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API. ![](https://img.shields.io/github/stars/sindresorhus/screenfull.svg?style=social&label=Star)
 
 ### Storage
 
