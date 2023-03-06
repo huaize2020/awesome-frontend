@@ -28,6 +28,8 @@ English | [简体中文](./README.md)
   - [Cross Platform/Multiple Platform](#cross-platformmultiple-platform)
   - [Form](#form)
     - [Upload](#upload)
+  - [Interaction](#interaction)
+    - [Keyboard](#keyboard)
   - [Micro Frontend](#micro-frontend)
   - [Canvas/SVG](#canvassvg)
   - [WebGL](#webgl)
@@ -153,6 +155,12 @@ English | [简体中文](./README.md)
 - [dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars. ![](https://img.shields.io/github/stars/dropzone/dropzone.svg?style=social&label=Star)
 - [webuploader](https://github.com/fex-team/webuploader) - It's a new file uploader solution! ![](https://img.shields.io/github/stars/fex-team/webuploader.svg?style=social&label=Star)
 - [plupload](https://github.com/moxiecode/plupload) - Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight. ![](https://img.shields.io/github/stars/moxiecode/plupload.svg?style=social&label=Star)
+
+### Interaction
+
+#### Keyboard
+
+- [keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies. ![](https://img.shields.io/github/stars/madrobby/keymaster.svg?style=social&label=Star)
 
 ### Micro Frontend
 

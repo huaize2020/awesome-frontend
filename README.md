@@ -33,6 +33,8 @@
   - [跨端/多端框架](#跨端多端框架)
   - [表单相关](#表单相关)
     - [上传](#上传)
+  - [交互相关](#交互相关)
+    - [键盘操作](#键盘操作)
   - [微前端](#微前端)
   - [Canvas/SVG](#canvassvg)
   - [WebGL](#webgl)
@@ -102,6 +104,7 @@
 
 ### 面试题
 
+- [前端面试题汇总](https://www.yuque.com/cuggz/interview) - [@cuggz](https://www.yuque.com/cuggz) - 🛰公号：前端充电宝，全网最全前端面试题
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - [@木易杨](https://github.com/yygmind) 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 ![](https://img.shields.io/github/stars/Advanced-Frontend/Daily-Interview-Question.svg?style=social&label=Star)
 - [面试题集合](https://github.com/shfshanyue/Daily-Question/issues?page=1) - [@山月](https://github.com/shfshanyue) 互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中。 ![](https://img.shields.io/github/stars/shfshanyue/Daily-Question.svg?style=social&label=Star)
 - [剑指前端 Offer](https://github.com/hzfe/awesome-interview) - [@HZFE](https://github.com/HZFE) ![](https://img.shields.io/github/stars/hzfe/awesome-interview.svg?style=social&label=Star)
@@ -181,6 +184,12 @@
 - [dropzone](https://github.com/dropzone/dropzone) - Dropzone 是一个易于使用的拖放库。 它支持图像预览并显示漂亮的进度条。 ![](https://img.shields.io/github/stars/dropzone/dropzone.svg?style=social&label=Star)
 - [webuploader](https://github.com/fex-team/webuploader) - WebUploader是一个简单的以HTML5为主，FLASH为辅的现代文件上传组件。 ![](https://img.shields.io/github/stars/fex-team/webuploader.svg?style=social&label=Star)
 - [plupload](https://github.com/moxiecode/plupload) - Plupload 是用于构建文件上传器的 JavaScript API。 它支持多文件选择、文件过滤、分块上传、客户端图像缩小，并且在必要时可以回退到替代运行时，如 Flash 和 Silverlight。 ![](https://img.shields.io/github/stars/moxiecode/plupload.svg?style=social&label=Star)
+
+### 交互相关
+
+#### 键盘操作
+
+- [keymaster](https://github.com/madrobby/keymaster) - 一个用于定义和触发键盘快捷键的微型库。 它没有任何依赖。 ![](https://img.shields.io/github/stars/madrobby/keymaster.svg?style=social&label=Star)
 
 ### 微前端
 
