@@ -67,6 +67,7 @@
     - [PDF](#pdf)
     - [演示/幻灯片](#演示幻灯片)
   - [命令终端](#命令终端)
+  - [构建工具](#构建工具)
   - [Web Components](#web-components)
   - [指纹](#指纹)
 
@@ -428,6 +429,24 @@
 ### 命令终端
 
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Web上的命令终端. ![](https://img.shields.io/github/stars/xtermjs/xterm.js.svg?style=social&label=Star)
+
+### 构建工具
+
+- [webpack](https://github.com/webpack/webpack) - 打包浏览器的模块和资产。 ![](https://img.shields.io/github/stars/webpack/webpack.svg?style=social&label=Star)
+- [parcel](https://github.com/parcel-bundler/parcel) - 快速，零配置的 Web 应用构建工具。 ![](https://img.shields.io/github/stars/parcel-bundler/parcel.svg?style=social&label=Star)
+- [gulp](https://github.com/gulpjs/gulp) - 流式快速构建系统，支持代码而不是配置。 ![](https://img.shields.io/github/stars/gulpjs/gulp.svg?style=social&label=Star)
+- [esbuild](https://github.com/evanw/esbuild) - 极快的 JavaScript 打包压缩工具。 ![](https://img.shields.io/github/stars/evanw/esbuild.svg?style=social&label=Star)
+- [rollup](https://github.com/rollup/rollup) - 新一代的 ES2015 打包构建工具。 ![](https://img.shields.io/github/stars/rollup/rollup.svg?style=social&label=Star)
+- [pkg](https://github.com/zeit/pkg) - 将 Node.js 项目打包成可执行文件。 ![](https://img.shields.io/github/stars/zeit/pkg.svg?style=social&label=Star)
+- [Grunt](https://github.com/gruntjs/grunt) - JavaScript 任务执行器。 ![](https://img.shields.io/github/stars/gruntjs/grunt.svg?style=social&label=Star)
+- [Brunch](https://github.com/brunch/brunch) - 前端 web 应用程序构建工具，具有简单的声明性配置、快速的增量编译和自定的工作流。 ![](https://img.shields.io/github/stars/brunch/brunch.svg?style=social&label=Star)
+- [FuseBox](https://github.com/fuse-box/fuse-box) - 快速构建系统，结合了 webpack，JSPM 和 SystemJS 的强大功能，并具有一流的 TypeScript 支持。 ![](https://img.shields.io/github/stars/fuse-box/fuse-box.svg?style=social&label=Star)
+- [rspack](https://github.com/web-infra-dev/rspack) - 一个快速的基于 Rust 的 Web 打包工具 🦀️。 ![](https://img.shields.io/github/stars/web-infra-dev/rspack.svg?style=social&label=Star)
+- [Broccoli](https://github.com/broccolijs/broccoli) - 快速、可靠的资产管道，支持固定时间重建和紧凑的构建定义。 ![](https://img.shields.io/github/stars/broccolijs/broccoli.svg?style=social&label=Star)
+
+- ESM
+  - [Vite](https://github.com/vitejs/vite) - 新一代前端构建工具。 ![](https://img.shields.io/github/stars/vitejs/vite.svg?style=social&label=Star)
+  - [snowpack](https://github.com/snowpackjs/snowpack) - 由 ESM 支持的前端构建工具。 即时，轻量级，无捆绑开发。 ![](https://img.shields.io/github/stars/snowpackjs/snowpack.svg?style=social&label=Star)
 
 ### Web Components
 *(你也许喜欢 [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*

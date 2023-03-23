@@ -63,6 +63,7 @@ English | [简体中文](./README.md)
     - [PDF](#pdf)
     - [Presentation/PPT](#presentationppt)
   - [Terminal](#terminal)
+  - [Build Tools](#build-tools)
   - [Web Components](#web-components)
   - [Finger Printing](#finger-printing)
 
@@ -410,6 +411,24 @@ English | [简体中文](./README.md)
 ### Terminal
 
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. ![](https://img.shields.io/github/stars/xtermjs/xterm.js.svg?style=social&label=Star)
+
+### Build Tools
+
+- [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser. ![](https://img.shields.io/github/stars/webpack/webpack.svg?style=social&label=Star)
+- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler. ![](https://img.shields.io/github/stars/parcel-bundler/parcel.svg?style=social&label=Star)
+- [gulp](https://github.com/gulpjs/gulp) - Streaming and fast build system that favors code over config. ![](https://img.shields.io/github/stars/gulpjs/gulp.svg?style=social&label=Star)
+- [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier. ![](https://img.shields.io/github/stars/evanw/esbuild.svg?style=social&label=Star)
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler. ![](https://img.shields.io/github/stars/rollup/rollup.svg?style=social&label=Star)
+- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable. ![](https://img.shields.io/github/stars/zeit/pkg.svg?style=social&label=Star)
+- [Grunt](https://github.com/gruntjs/grunt) - JavaScript Task Runner ![](https://img.shields.io/github/stars/gruntjs/grunt.svg?style=social&label=Star)
+- [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow. ![](https://img.shields.io/github/stars/brunch/brunch.svg?style=social&label=Star)
+- [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support. ![](https://img.shields.io/github/stars/fuse-box/fuse-box.svg?style=social&label=Star)
+- [rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️. ![](https://img.shields.io/github/stars/web-infra-dev/rspack.svg?style=social&label=Star)
+- [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions. ![](https://img.shields.io/github/stars/broccolijs/broccoli.svg?style=social&label=Star)
+
+- ESM
+  - [Vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling. ![](https://img.shields.io/github/stars/vitejs/vite.svg?style=social&label=Star)
+  - [snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ![](https://img.shields.io/github/stars/snowpackjs/snowpack.svg?style=social&label=Star)
 
 ### Web Components
 *(You might like [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents#libraries-and-frameworks))*
