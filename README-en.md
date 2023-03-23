@@ -160,6 +160,7 @@ English | [简体中文](./README.md)
 
 #### Keyboard
 
+- [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript. ![](https://img.shields.io/github/stars/ccampbell/mousetrap.svg?style=social&label=Star)
 - [keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies. ![](https://img.shields.io/github/stars/madrobby/keymaster.svg?style=social&label=Star)
 
 ### Micro Frontend

@@ -189,6 +189,7 @@
 
 #### 键盘操作
 
+- [mousetrap](https://github.com/ccampbell/mousetrap) - 处理键盘快捷方式的简单库。 ![](https://img.shields.io/github/stars/ccampbell/mousetrap.svg?style=social&label=Star)
 - [keymaster](https://github.com/madrobby/keymaster) - 一个用于定义和触发键盘快捷键的微型库。 它没有任何依赖。 ![](https://img.shields.io/github/stars/madrobby/keymaster.svg?style=social&label=Star)
 
 ### 微前端
